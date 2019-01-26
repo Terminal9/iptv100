@@ -1,8 +1,4 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="###### -- |USA| USA |USA| -- ######" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f-23bdCCIOOjbNm8BFaVLK76W2qLZR2A0jFJ2KivYuPeyw2dCueQhBS9" group-title="USA",###### -- |USA| USA |USA| -- ######
-http://xpro.one-iptv.com:25443/mgs/1234/22498
-#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA SPORTS *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF_smbtzD2kziB7lSw0sUoCV5hefapJmbNwgPB20duiTzfZ12WL_Y-lWo" group-title="USA",|USA  | ***** USA SPORTS *****
-http://xpro.one-iptv.com:25443/mgs/1234/31851
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="|USA *| MSNBC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRTT2DcGs6j1H_ngW7j3f4f2oFyqKF7AaB3hJiY1IoJ53feOuaK-imG1tO" group-title="USA",|USA *| MSNBC HD
 http://xpro.one-iptv.com:25443/mgs/1234/31617
 #EXTINF:-1 tvg-id="MSNBC.us" tvg-name="|USA  | MSNBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqNfp7tX_WYlMCwhoH_nXA6zP_-BL8aMIir5DOjvdOxKimlv1S2A9GD2t7" group-title="USA",|USA  | MSNBC
