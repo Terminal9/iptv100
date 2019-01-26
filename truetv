@@ -1,1229 +1,527 @@
 #EXTM3U 
-#EXTINF:-1,SW-usa-VH1 US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3001.ts
-#EXTINF:-1,SW-usa-USA NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2958.ts
-#EXTINF:-1,SW-usa-TV LAND
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3009.ts
-#EXTINF:-1,SW-usa-TRAVEL CHANNEL
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3010.ts
-#EXTINF:-1,SW-usa-TNT TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2974.ts
-#EXTINF:-1,SW-usa-TLC USA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2996.ts
-#EXTINF:-1,SW-usa-TENNIS CHANNEL
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3011.ts
-#EXTINF:-1,SW-usa-TBS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2986.ts
-#EXTINF:-1,SW-usa-SYFY
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2959.ts
-#EXTINF:-1,SW-usa-SUNDANCE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2999.ts
-#EXTINF:-1,SW-usa-STARZ WEST
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2977.ts
-#EXTINF:-1,SW-usa-STARZ HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2976.ts
-#EXTINF:-1,SW-usa-STARZ EDGE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2979.ts
-#EXTINF:-1,SW-usa-STARZ COMEDY
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2978.ts
-#EXTINF:-1,SW-usa-SPIKE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2972.ts
-#EXTINF:-1,SW-usa-SHOWTIME
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2983.ts
-#EXTINF:-1,SW-usa-SEC NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3002.ts
-#EXTINF:-1,SW-usa-ROMEDY NOW
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2969.ts
-#EXTINF:-1,SW-usa-OWN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2994.ts
-#EXTINF:-1,SW-usa-NICK AT NITE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2993.ts
-#EXTINF:-1,SW-usa-NAT GEO
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2989.ts
-#EXTINF:-1,SW-usa-MSNBC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3013.ts
-#EXTINF:-1,SW-usa-MOVIETIME
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2988.ts
-#EXTINF:-1,SW-usa-MLB NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3003.ts
-#EXTINF:-1,SW-usa-LMN US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2998.ts
-#EXTINF:-1,SW-usa-LIFETIME
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2973.ts
-#EXTINF:-1,SW-usa-IFC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3016.ts
-#EXTINF:-1,SW-usa-HISTORY US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2985.ts
-#EXTINF:-1,SW-usa-HGTV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2971.ts
-#EXTINF:-1,SW-usa-HBO ZONE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2963.ts
-#EXTINF:-1,SW-usa-HBO SINGNATURE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2964.ts
-#EXTINF:-1,SW-usa-HBO HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2967.ts
-#EXTINF:-1,SW-usa-HBO COMEDY
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2965.ts
-#EXTINF:-1,SW-usa-HALLMARK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2995.ts
-#EXTINF:-1,SW-usa-GSN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3015.ts
-#EXTINF:-1,SW-usa-FXX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3000.ts
-#EXTINF:-1,SW-usa-FX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2970.ts
-#EXTINF:-1,SW-usa-FREEFROM
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3004.ts
-#EXTINF:-1,SW-usa-FOX US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2990.ts
-#EXTINF:-1,SW-usa-FOX NEWS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2968.ts
-#EXTINF:-1,SW-usa-FOOD NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2984.ts
-#EXTINF:-1,SW-usa-EL REY NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3008.ts
-#EXTINF:-1,SW-usa-E ENTERTAINMENT
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2982.ts
-#EXTINF:-1,SW-usa-DISNEY CH US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3005.ts
-#EXTINF:-1,SW-usa-DISCOVERY VELOCITY
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3007.ts
-#EXTINF:-1,SW-usa-Discovery USA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2966.ts
-#EXTINF:-1,SW-usa-DISCOVERY SCI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3006.ts
-#EXTINF:-1,SW-usa-CW TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2981.ts
-#EXTINF:-1,SW-usa-COMEDY CENTRAL
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2987.ts
-#EXTINF:-1,SW-usa-CNN US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2991.ts
-#EXTINF:-1,SW-usa-CINEMAX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2992.ts
-#EXTINF:-1,SW-usa-CBS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2975.ts
-#EXTINF:-1,SW-usa-CARTOON NET US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3018.ts
-#EXTINF:-1,SW-usa-BRAVO
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2980.ts
-#EXTINF:-1,SW-usa-BIG TEN NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3014.ts
-#EXTINF:-1,SW-usa-BET
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2997.ts
-#EXTINF:-1,SW-usa-BBC AMERICA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3012.ts
-#EXTINF:-1,SW-usa-ANIMAL PLANET US
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3017.ts
-#EXTINF:-1,SW-usa-AMC USA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2961.ts
-#EXTINF:-1,SW-usa-ABC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2960.ts
-#EXTINF:-1,SW-usa-A And E
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2962.ts
-#EXTINF:-1,SW-sport-ZIGGO SELECT
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2924.ts
-#EXTINF:-1,SW-sport-WWE NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2831.ts
-#EXTINF:-1,SW-sport-WILLOW CRIC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2804.ts
-#EXTINF:-1,SW-sport-VIASAT FOOTBALL HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2870.ts
-#EXTINF:-1,SW-sport-Uk Racing
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2829.ts
-#EXTINF:-1,SW-sport-TSN SPORTS 5
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2865.ts
-#EXTINF:-1,SW-sport-TSN SPORTS 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2864.ts
-#EXTINF:-1,SW-sport-TSN SPORTS 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2863.ts
-#EXTINF:-1,SW-sport-TSN SPORTS 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2862.ts
-#EXTINF:-1,SW-sport-TSN SPORTS 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2861.ts
-#EXTINF:-1,SW-sport-TEN SP PAK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2784.ts
-#EXTINF:-1,SW-sport-TEN GOLF HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2792.ts
-#EXTINF:-1,SW-sport-TEN CRICKET
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2785.ts
-#EXTINF:-1,SW-sport-TEN 3 HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2788.ts
-#EXTINF:-1,SW-sport-TEN 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2791.ts
-#EXTINF:-1,SW-sport-TEN 2 HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2787.ts
-#EXTINF:-1,SW-sport-TEN 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2790.ts
-#EXTINF:-1,SW-sport-TEN 1 HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2786.ts
-#EXTINF:-1,SW-sport-TEN 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2789.ts
-#EXTINF:-1,SW-sport-SUPER SPORTS 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2923.ts
-#EXTINF:-1,SW-sport-SUPER SPORTS 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2922.ts
-#EXTINF:-1,SW-sport-SUPER SPORTS 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2921.ts
-#EXTINF:-1,SW-sport-SUPER SPORTS 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2920.ts
-#EXTINF:-1,SW-sport-SUPER SP 9
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2954.ts
-#EXTINF:-1,SW-sport-SUPER SP 7
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2953.ts
-#EXTINF:-1,SW-sport-SUPER SP 6
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2952.ts
-#EXTINF:-1,SW-sport-SUPER SP 5
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2951.ts
-#EXTINF:-1,SW-sport-SUPER SP 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2950.ts
-#EXTINF:-1,SW-sport-SUPER SP 12
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2956.ts
-#EXTINF:-1,SW-sport-SUPER SP 11
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2955.ts
-#EXTINF:-1,SW-sport-STAR SP SELECT 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2795.ts
-#EXTINF:-1,SW-sport-STAR SP SELECT 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2794.ts
-#EXTINF:-1,SW-sport-STAR SP HD 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2797.ts
-#EXTINF:-1,SW-sport-STAR SP HD 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2796.ts
-#EXTINF:-1,SW-sport-STAR SP FRIST
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2793.ts
-#EXTINF:-1,SW-sport-STAR SP 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2801.ts
-#EXTINF:-1,SW-sport-STAR SP 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2800.ts
-#EXTINF:-1,SW-sport-STAR SP 1 HD HINDI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2798.ts
-#EXTINF:-1,SW-sport-STAR SP 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2799.ts
-#EXTINF:-1,SW-sport-SPORTSNET WOLRD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2916.ts
-#EXTINF:-1,SW-sport-SPORTSNET ONTARIO
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2917.ts
-#EXTINF:-1,SW-sport-SPORTSNET ONE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2918.ts
-#EXTINF:-1,SW-sport-SPORTSNET 360
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2919.ts
-#EXTINF:-1,SW-sport-Sports Tv 5
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2908.ts
-#EXTINF:-1,SW-sport-Sports Tv 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2907.ts
-#EXTINF:-1,SW-sport-Sports Tv 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2906.ts
-#EXTINF:-1,SW-sport-Sports Tv 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2905.ts
-#EXTINF:-1,SW-sport-Sports Tv 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2904.ts
-#EXTINF:-1,SW-sport-SPORT KLUB 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2915.ts
-#EXTINF:-1,SW-sport-SPORT KLUB 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2914.ts
-#EXTINF:-1,SW-sport-SONY SIX HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2802.ts
-#EXTINF:-1,SW-sport-SONY SIX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2803.ts
-#EXTINF:-1,SW-sport-SONY ESPN HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2821.ts
-#EXTINF:-1,SW-sport-SONY ESPN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2822.ts
-#EXTINF:-1,SW-sport-SKY SPORTS MAIN EVENT
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2807.ts
-#EXTINF:-1,SW-sport-SKY SPORTS LEAGUE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2811.ts
-#EXTINF:-1,SW-sport-SKY SPORTS GOLF
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2810.ts
-#EXTINF:-1,SW-sport-SKY SPORTS FOOTBALL
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2813.ts
-#EXTINF:-1,SW-sport-SKY SPORTS F1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2814.ts
-#EXTINF:-1,SW-sport-SKY SPORTS CRICKET
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2808.ts
-#EXTINF:-1,SW-sport-SKY SPORTS ARENA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2812.ts
-#EXTINF:-1,SW-sport-SKY SPORTS ACTION
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2809.ts
-#EXTINF:-1,SW-sport-SKY SP NEWS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2806.ts
-#EXTINF:-1,SW-sport-SKY SP MAIN EVENT SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2886.ts
-#EXTINF:-1,SW-sport-SKY SP LEAGUE SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2890.ts
-#EXTINF:-1,SW-sport-SKY SP GOLF SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2889.ts
-#EXTINF:-1,SW-sport-SKY SP FOOTBALL SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2892.ts
-#EXTINF:-1,SW-sport-SKY SP CRICKET SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2887.ts
-#EXTINF:-1,SW-sport-SKY SP ARENA SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2891.ts
-#EXTINF:-1,SW-sport-SKY SP ACTION SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2888.ts
-#EXTINF:-1,SW-sport-SKY SP 2 DE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2933.ts
-#EXTINF:-1,SW-sport-SKY SP 1 ITALY
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2913.ts
-#EXTINF:-1,SW-sport-SKY SP 1 DE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2932.ts
-#EXTINF:-1,SW-sport-SKY NEWS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2819.ts
-#EXTINF:-1,SW-sport-SKY MIX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2815.ts
-#EXTINF:-1,SW-sport-SKY BOX OFFICE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2939.ts
-#EXTINF:-1,SW-sport-SFR SP 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2937.ts
-#EXTINF:-1,SW-sport-SFR SP 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2936.ts
-#EXTINF:-1,SW-sport-SFR SP 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2935.ts
-#EXTINF:-1,SW-sport-Setanta
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2826.ts
-#EXTINF:-1,SW-sport-PTV SPORTS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2782.ts
-#EXTINF:-1,SW-sport-PREMIER SP
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2805.ts
-#EXTINF:-1,SW-sport-OTE SP 8
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2948.ts
-#EXTINF:-1,SW-sport-OTE SP 7
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2947.ts
-#EXTINF:-1,SW-sport-OTE SP 6
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2946.ts
-#EXTINF:-1,SW-sport-OTE SP 5
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2945.ts
-#EXTINF:-1,SW-sport-OTE SP 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2944.ts
-#EXTINF:-1,SW-sport-OTE SP 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2943.ts
-#EXTINF:-1,SW-sport-OTE SP 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2942.ts
-#EXTINF:-1,SW-sport-OTE SP 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2941.ts
-#EXTINF:-1,SW-sport-OSN SPORTS 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2912.ts
-#EXTINF:-1,SW-sport-OSN SPORTS 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2911.ts
-#EXTINF:-1,SW-sport-OSN SPORTS 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2910.ts
-#EXTINF:-1,SW-sport-OSN CRICKET
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2896.ts
-#EXTINF:-1,SW-sport-NFL NETWORK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2873.ts
-#EXTINF:-1,SW-sport-NEO SPORTS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2827.ts
-#EXTINF:-1,SW-sport-NEO PRIME
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2828.ts
-#EXTINF:-1,SW-sport-NBC SN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2872.ts
-#EXTINF:-1,SW-sport-NBA TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2871.ts
-#EXTINF:-1,SW-sport-MUTV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2832.ts
-#EXTINF:-1,SW-sport-LFC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2833.ts
-#EXTINF:-1,SW-sport-KSA SPORTS 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2957.ts
-#EXTINF:-1,SW-sport-GEO SUPER
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2783.ts
-#EXTINF:-1,SW-sport-FREE SPORTS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2938.ts
-#EXTINF:-1,SW-sport-FOX SPORT 5 NL
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2860.ts
-#EXTINF:-1,SW-sport-FOX SPORT 4 NL
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2859.ts
-#EXTINF:-1,SW-sport-FOX SPORT 3 NL
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2858.ts
-#EXTINF:-1,SW-sport-FOX SPORT 2 USA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2855.ts
-#EXTINF:-1,SW-sport-FOX SPORT 2 NL
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2857.ts
-#EXTINF:-1,SW-sport-FOX SPORT 1 USA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2854.ts
-#EXTINF:-1,SW-sport-FOX SPORT 1 NL
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2856.ts
-#EXTINF:-1,SW-sport-FIGHTBOX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2931.ts
-#EXTINF:-1,SW-sport-EURO SPORTS 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2824.ts
-#EXTINF:-1,SW-sport-EURO SPORTS 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2823.ts
-#EXTINF:-1,SW-sport-ESPN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2820.ts
-#EXTINF:-1,SW-sport-EIR SP 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2926.ts
-#EXTINF:-1,SW-sport-EIR SP 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2925.ts
-#EXTINF:-1,SW-sport-DIGI SPORTS 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2930.ts
-#EXTINF:-1,SW-sport-DIGI SPORTS 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2929.ts
-#EXTINF:-1,SW-sport-DIGI SPORTS 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2928.ts
-#EXTINF:-1,SW-sport-DIGI SPORTS 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2927.ts
-#EXTINF:-1,SW-sport-D SPORTS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2934.ts
-#EXTINF:-1,SW-sport-Chelsea TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2848.ts
-#EXTINF:-1,SW-sport-BT SPORTS 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2818.ts
-#EXTINF:-1,SW-sport-BT SPORTS 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2817.ts
-#EXTINF:-1,SW-sport-BT SPORTS 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2816.ts
-#EXTINF:-1,SW-sport-BT ESPN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2940.ts
-#EXTINF:-1,SW-sport-BT 3 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2895.ts
-#EXTINF:-1,SW-sport-BT 2 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2894.ts
-#EXTINF:-1,SW-sport-BT 1 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2893.ts
-#EXTINF:-1,SW-sport-BOX NATION
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2825.ts
-#EXTINF:-1,SW-sport-BENFICA TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2909.ts
-#EXTINF:-1,SW-sport-BEIN USA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2834.ts
-#EXTINF:-1,SW-sport-BEIN SP NEWS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2835.ts
-#EXTINF:-1,SW-sport-BEIN FR 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2899.ts
-#EXTINF:-1,SW-sport-BEIN FR 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2898.ts
-#EXTINF:-1,SW-sport-BEIN FR 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2897.ts
-#EXTINF:-1,SW-sport-BEIN 9 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2882.ts
-#EXTINF:-1,SW-sport-BEIN 9
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2844.ts
-#EXTINF:-1,SW-sport-BEIN 8 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2881.ts
-#EXTINF:-1,SW-sport-BEIN 8
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2843.ts
-#EXTINF:-1,SW-sport-BEIN 7 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2880.ts
-#EXTINF:-1,SW-sport-BEIN 7
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2842.ts
-#EXTINF:-1,SW-sport-BEIN 6 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2879.ts
-#EXTINF:-1,SW-sport-BEIN 6
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2841.ts
-#EXTINF:-1,SW-sport-BEIN 5 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2878.ts
-#EXTINF:-1,SW-sport-BEIN 5
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2840.ts
-#EXTINF:-1,SW-sport-BEIN 4 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2877.ts
-#EXTINF:-1,SW-sport-BEIN 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2839.ts
-#EXTINF:-1,SW-sport-BEIN 3 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2876.ts
-#EXTINF:-1,SW-sport-BEIN 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2838.ts
-#EXTINF:-1,SW-sport-BEIN 2 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2875.ts
-#EXTINF:-1,SW-sport-BEIN 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2837.ts
-#EXTINF:-1,SW-sport-BEIN 12 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2885.ts
-#EXTINF:-1,SW-sport-BEIN 12
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2847.ts
-#EXTINF:-1,SW-sport-BEIN 11 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2884.ts
-#EXTINF:-1,SW-sport-BEIN 11
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2846.ts
-#EXTINF:-1,SW-sport-BEIN 10 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2883.ts
-#EXTINF:-1,SW-sport-BEIN 10
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2845.ts
-#EXTINF:-1,SW-sport-BEIN 1 SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2874.ts
-#EXTINF:-1,SW-sport-BEIN 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2836.ts
-#EXTINF:-1,SW-sport-AT THE RACES
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2830.ts
-#EXTINF:-1,SW-sport-ASTRO CRICKET
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2949.ts
-#EXTINF:-1,SW-sport-Arena Sports 5
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2853.ts
-#EXTINF:-1,SW-sport-Arena Sports 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2852.ts
-#EXTINF:-1,SW-sport-Arena Sports 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2851.ts
-#EXTINF:-1,SW-sport-Arena Sports 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2850.ts
-#EXTINF:-1,SW-sport-Arena Sports 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2849.ts
-#EXTINF:-1,SW-sport-Al Kass SP 5
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2903.ts
-#EXTINF:-1,SW-sport-Al Kass SP 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2902.ts
-#EXTINF:-1,SW-sport-Al Kass SP 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2901.ts
-#EXTINF:-1,SW-sport-Al Kass SP 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2900.ts
-#EXTINF:-1,SW-sport-AD SPORTS 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2869.ts
-#EXTINF:-1,SW-sport-AD SPORTS 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2868.ts
-#EXTINF:-1,SW-sport-AD SPORTS 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2867.ts
-#EXTINF:-1,SW-sport-AD SPORTS 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2866.ts
-#EXTINF:-1,SW-ind-Zoom Tv
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3141.ts
-#EXTINF:-1,SW-ind-ZING UK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3137.ts
-#EXTINF:-1,SW-ind-ZING IND
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3138.ts
-#EXTINF:-1,SW-ind-Zee Yuva
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3158.ts
-#EXTINF:-1,SW-ind-Zee TV UK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3090.ts
-#EXTINF:-1,SW-ind-Zee TV ME
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3091.ts
-#EXTINF:-1,SW-ind-ZEE TV IN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3089.ts
-#EXTINF:-1,SW-ind-ZEE TV HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3088.ts
-#EXTINF:-1,SW-ind-Zee Talkies
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3109.ts
-#EXTINF:-1,SW-ind-Zee Studio
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3104.ts
-#EXTINF:-1,SW-ind-ZEE SALAM
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3094.ts
-#EXTINF:-1,SW-ind-ZEE NEWS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3097.ts
-#EXTINF:-1,SW-ind-Zee Mpcg
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3200.ts
-#EXTINF:-1,SW-ind-ZEE MARATHI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3171.ts
-#EXTINF:-1,SW-ind-ZEE LIVING HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3102.ts
-#EXTINF:-1,SW-ind-Zee Hindustan
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3198.ts
-#EXTINF:-1,SW-ind-Zee ETC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3096.ts
-#EXTINF:-1,SW-ind-ZEE CLASSIC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3092.ts
-#EXTINF:-1,SW-ind-ZEE CINEMA UK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3100.ts
-#EXTINF:-1,SW-ind-Zee Cinema ME
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3101.ts
-#EXTINF:-1,SW-ind-Zee Cinema IN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3099.ts
-#EXTINF:-1,SW-ind-Zee Cinema HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3098.ts
-#EXTINF:-1,SW-ind-Zee Cafe
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3103.ts
-#EXTINF:-1,SW-ind-ZEE BUSINESS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3095.ts
-#EXTINF:-1,SW-ind-Zee Anmol Cinema
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3107.ts
-#EXTINF:-1,SW-ind-Zee Anmol
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3106.ts
-#EXTINF:-1,SW-ind-ZEE ACTION
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3093.ts
-#EXTINF:-1,SW-ind-Zee 24 Taas
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3199.ts
-#EXTINF:-1,SW-ind-WOW CINEMA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3157.ts
-#EXTINF:-1,SW-ind-UTV Movies International
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3134.ts
-#EXTINF:-1,SW-ind-UTV Movies
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3133.ts
-#EXTINF:-1,SW-ind-UTV Bindass
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3132.ts
-#EXTINF:-1,SW-ind-TV9 MARATHI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3170.ts
-#EXTINF:-1,SW-ind-TV9 GUJARTI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3180.ts
-#EXTINF:-1,SW-ind-TRAVEL XP HINDI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3177.ts
-#EXTINF:-1,SW-ind-TLC HINDI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3163.ts
-#EXTINF:-1,SW-ind-Times Now
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3124.ts
-#EXTINF:-1,SW-ind-TEZ NEWS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3185.ts
-#EXTINF:-1,SW-ind-TARANG TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3187.ts
-#EXTINF:-1,SW-ind-Star World HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3049.ts
-#EXTINF:-1,SW-ind-Star Utsuv Movies
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3160.ts
-#EXTINF:-1,SW-ind-Star Ustuv
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3048.ts
-#EXTINF:-1,SW-ind-STAR PLUS UK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3047.ts
-#EXTINF:-1,SW-ind-STAR PLUS ME
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3046.ts
-#EXTINF:-1,SW-ind-STAR Plus IN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3045.ts
-#EXTINF:-1,SW-ind-Star Plus HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3044.ts
-#EXTINF:-1,SW-ind-STAR PARAVAH
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3186.ts
-#EXTINF:-1,SW-ind-STAR MOVIES HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3054.ts
-#EXTINF:-1,SW-ind-STAR MOVIES
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3055.ts
-#EXTINF:-1,SW-ind-STAR GOLD UK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3052.ts
-#EXTINF:-1,SW-ind-STAR GOLD SELECT
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3181.ts
-#EXTINF:-1,SW-ind-STAR GOLD IN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3051.ts
-#EXTINF:-1,SW-ind-STAR GOLD HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3050.ts
-#EXTINF:-1,SW-ind-STAR BHARAT MENA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3064.ts
-#EXTINF:-1,SW-ind-STAR BHARAT IN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3063.ts
-#EXTINF:-1,SW-ind-STAR BHARAT HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3062.ts
-#EXTINF:-1,SW-ind-SONY WAH
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3194.ts
-#EXTINF:-1,SW-ind-Sony TV UK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3074.ts
-#EXTINF:-1,SW-ind-Sony TV IN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3073.ts
-#EXTINF:-1,SW-ind-SONY TV HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3072.ts
-#EXTINF:-1,SW-ind-SONY TV ASIA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3075.ts
-#EXTINF:-1,SW-ind-SONY SAB IN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3078.ts
-#EXTINF:-1,SW-ind-SONY SAB HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3076.ts
-#EXTINF:-1,SW-ind-SONY SAB ASIA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3079.ts
-#EXTINF:-1,SW-ind-SONY SAB
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3077.ts
-#EXTINF:-1,SW-ind-SONY ROX HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3173.ts
-#EXTINF:-1,SW-ind-Sony Pix HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3086.ts
-#EXTINF:-1,SW-ind-Sony Pal
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3084.ts
-#EXTINF:-1,SW-ind-Sony Mix
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3087.ts
-#EXTINF:-1,SW-ind-Sony Max 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3085.ts
-#EXTINF:-1,SW-ind-SONY BBC EARTH IN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3176.ts
-#EXTINF:-1,SW-ind-Set MAX UK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3082.ts
-#EXTINF:-1,SW-ind-Set MAX IN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3081.ts
-#EXTINF:-1,SW-ind-SET MAX HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3080.ts
-#EXTINF:-1,SW-ind-SET MAX AUS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3083.ts
-#EXTINF:-1,SW-ind-Sanskar TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3131.ts
-#EXTINF:-1,SW-ind-SANGEET BHOJPURI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3179.ts
-#EXTINF:-1,SW-ind-SAHARA UP
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3111.ts
-#EXTINF:-1,SW-ind-Sahara Samay
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3110.ts
-#EXTINF:-1,SW-ind-Sahara RJ
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3114.ts
-#EXTINF:-1,SW-ind-SAHARA ONE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3166.ts
-#EXTINF:-1,SW-ind-Sahara Filmy
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3115.ts
-#EXTINF:-1,SW-ind-SAHARA BIHAR
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3113.ts
-#EXTINF:-1,SW-ind-SAHARA AALMI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3112.ts
-#EXTINF:-1,SW-ind-RT MOVIES
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3136.ts
-#EXTINF:-1,SW-ind-RISHTEY UK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3067.ts
-#EXTINF:-1,SW-ind-RISHTEY ASIA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3068.ts
-#EXTINF:-1,SW-ind-RISHTEY
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3066.ts
-#EXTINF:-1,SW-ind-RISHTAY CINEPLEX UK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3070.ts
-#EXTINF:-1,SW-ind-RISHTAY CINEPLEX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3069.ts
-#EXTINF:-1,SW-ind-REPUBLIC TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3172.ts
-#EXTINF:-1,SW-ind-OSCAR MOV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3175.ts
-#EXTINF:-1,SW-ind-NTV INDIA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3191.ts
-#EXTINF:-1,SW-ind-NDTV Profit
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3128.ts
-#EXTINF:-1,SW-ind-NDTV INDIA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3127.ts
-#EXTINF:-1,SW-ind-NDTV GOODTIMES
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3197.ts
-#EXTINF:-1,SW-ind-NDTV 24x7
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3129.ts
-#EXTINF:-1,SW-ind-Music India
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3144.ts
-#EXTINF:-1,SW-ind-MUNSIF TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3184.ts
-#EXTINF:-1,SW-ind-MULTIPLEX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3195.ts
-#EXTINF:-1,SW-ind-MTV India
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3135.ts
-#EXTINF:-1,SW-ind-Mtv Beats
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3161.ts
-#EXTINF:-1,SW-ind-MOVIES HOUSE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3189.ts
-#EXTINF:-1,SW-ind-Movie Ok
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3065.ts
-#EXTINF:-1,SW-ind-MH1 SHRADDHA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3182.ts
-#EXTINF:-1,SW-ind-Mastiii Tv
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3148.ts
-#EXTINF:-1,SW-ind-Manoranjan TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3151.ts
-#EXTINF:-1,SW-ind-Manoranjan Movies
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3152.ts
-#EXTINF:-1,SW-ind-Maha Movies
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3155.ts
-#EXTINF:-1,SW-ind-Living Foodz
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3108.ts
-#EXTINF:-1,SW-ind-India TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3121.ts
-#EXTINF:-1,SW-ind-India Today
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3122.ts
-#EXTINF:-1,SW-ind-FYI TV18
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3165.ts
-#EXTINF:-1,SW-ind-FOOD FOOD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3196.ts
-#EXTINF:-1,SW-ind-ET NOW
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3149.ts
-#EXTINF:-1,SW-ind-EPIC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3056.ts
-#EXTINF:-1,SW-ind-ENTER 10
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3125.ts
-#EXTINF:-1,SW-ind-E24
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3156.ts
-#EXTINF:-1,SW-ind-Dillagi
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3150.ts
-#EXTINF:-1,SW-ind-Dhammal Tv
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3154.ts
-#EXTINF:-1,SW-ind-DD SPORTS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3167.ts
-#EXTINF:-1,SW-ind-DD News
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3123.ts
-#EXTINF:-1,SW-ind-DD NATIONAL
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3178.ts
-#EXTINF:-1,SW-ind-Dangal Tv
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3105.ts
-#EXTINF:-1,SW-ind-DABANG TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3168.ts
-#EXTINF:-1,SW-ind-COLORS ORIYA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3188.ts
-#EXTINF:-1,SW-ind-Colors ME
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3060.ts
-#EXTINF:-1,SW-ind-COLORS MARATHI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3174.ts
-#EXTINF:-1,SW-ind-Colors Infinity
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3164.ts
-#EXTINF:-1,SW-ind-COLORS IN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3058.ts
-#EXTINF:-1,SW-ind-Colors HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3057.ts
-#EXTINF:-1,SW-ind-COLORS GUJARATI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3190.ts
-#EXTINF:-1,SW-ind-Colors EU
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3059.ts
-#EXTINF:-1,SW-ind-CINEPLEX HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3071.ts
-#EXTINF:-1,SW-ind-Cinema TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3159.ts
-#EXTINF:-1,SW-ind-Channel V
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3053.ts
-#EXTINF:-1,SW-ind-Cartoon Network
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3130.ts
-#EXTINF:-1,SW-ind-CALCUTTA NEWS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3183.ts
-#EXTINF:-1,SW-ind-Big Magic
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3153.ts
-#EXTINF:-1,SW-ind-BHOJPURI CINEMA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3162.ts
-#EXTINF:-1,SW-ind-B4U MUSIC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3140.ts
-#EXTINF:-1,SW-ind-B4U MOVIES
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3139.ts
-#EXTINF:-1,SW-ind-AND TV UK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3118.ts
-#EXTINF:-1,SW-ind-And TV SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3117.ts
-#EXTINF:-1,SW-ind-And TV HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3116.ts
-#EXTINF:-1,SW-ind-AND PRIVE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3193.ts
-#EXTINF:-1,SW-ind-And Pic SD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3120.ts
-#EXTINF:-1,SW-ind-And Pic HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3119.ts
-#EXTINF:-1,SW-ind-ABP News
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3126.ts
-#EXTINF:-1,SW-ind-ABP MAJHA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3169.ts
-#EXTINF:-1,SW-ind-Aastha TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3142.ts
-#EXTINF:-1,SW-ind-Aastha Bhajan
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3143.ts
-#EXTINF:-1,SW-ind-AAPKA COLORS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3061.ts
-#EXTINF:-1,SW-ind-AAJ TAKK
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3043.ts
-#EXTINF:-1,SW-ind-9XO
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3192.ts
-#EXTINF:-1,SW-ind-9x Music
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3145.ts
-#EXTINF:-1,SW-ind-9x Jhakaas
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3147.ts
-#EXTINF:-1,SW-ind-9x Jalwa
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3146.ts
-#EXTINF:-1,SW-FR-TF1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3024.ts
-#EXTINF:-1,SW-FR-TCM CINEMA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3026.ts
-#EXTINF:-1,SW-FR-SYFY
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3027.ts
-#EXTINF:-1,SW-FR-RTL9 HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3037.ts
-#EXTINF:-1,SW-FR-OCS MAX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3029.ts
-#EXTINF:-1,SW-FR-OCS CITY
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3030.ts
-#EXTINF:-1,SW-FR-OCS CHOC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3031.ts
-#EXTINF:-1,SW-FR-NET GEO WILD FRANCE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3035.ts
-#EXTINF:-1,SW-FR-NET GEO FRANCE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3034.ts
-#EXTINF:-1,SW-FR-M6
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3025.ts
-#EXTINF:-1,SW-FR-GULLI FR
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3032.ts
-#EXTINF:-1,SW-FR-France O
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3023.ts
-#EXTINF:-1,SW-FR-FRANCE 5
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3022.ts
-#EXTINF:-1,SW-FR-France 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3021.ts
-#EXTINF:-1,SW-FR-France 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3020.ts
-#EXTINF:-1,SW-FR-France 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3019.ts
-#EXTINF:-1,SW-FR-E ENTERTAINMENT
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3041.ts
-#EXTINF:-1,SW-FR-Disney Cinema
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3028.ts
-#EXTINF:-1,SW-FR-DISCOVERY SCI FRANCE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3036.ts
-#EXTINF:-1,SW-FR-Discovery FRANCE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3033.ts
-#EXTINF:-1,SW-FR-Boomrang France
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3038.ts
-#EXTINF:-1,SW-FR-BFMTV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3042.ts
-#EXTINF:-1,SW-FR-ANIMAUX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3040.ts
-#EXTINF:-1,SW-FR-ACTION
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/3039.ts
-#EXTINF:-1,SW-ar-ZEE ALWAN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2680.ts
-#EXTINF:-1,SW-ar-ZEE AFLAM
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2679.ts
-#EXTINF:-1,SW-ar-Tunsia Tv
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2741.ts
-#EXTINF:-1,SW-ar-Tunsia Nat 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2740.ts
-#EXTINF:-1,SW-ar-Tunsia Nat 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2739.ts
-#EXTINF:-1,SW-ar-SYRIA TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2726.ts
-#EXTINF:-1,SW-ar-SYRIA DRAMA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2729.ts
-#EXTINF:-1,SW-ar-SNTV SOMALI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2751.ts
-#EXTINF:-1,SW-ar-Sky News Arabic
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2775.ts
-#EXTINF:-1,SW-ar-SHARJAH TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2753.ts
-#EXTINF:-1,SW-ar-SBC SOMALI
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2752.ts
-#EXTINF:-1,SW-ar-Saudi 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2699.ts
-#EXTINF:-1,SW-ar-Saudi 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2698.ts
-#EXTINF:-1,SW-ar-Sama Dubai
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2700.ts
-#EXTINF:-1,SW-ar-ROTANA MUSIC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2720.ts
-#EXTINF:-1,SW-ar-ROTANA MASSRIA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2725.ts
-#EXTINF:-1,SW-ar-ROTANA KHALIJIA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2724.ts
-#EXTINF:-1,SW-ar-ROTANA CLIP
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2723.ts
-#EXTINF:-1,SW-ar-ROTANA CLASSIC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2722.ts
-#EXTINF:-1,SW-ar-ROTANA CINEMA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2721.ts
-#EXTINF:-1,SW-ar-OTV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2769.ts
-#EXTINF:-1,SW-ar-OSN WWE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2717.ts
-#EXTINF:-1,SW-ar-ON SPORT
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2730.ts
-#EXTINF:-1,SW-ar-Noor Dubai
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2703.ts
-#EXTINF:-1,SW-ar-Nile Sport
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2709.ts
-#EXTINF:-1,SW-ar-Nile Life
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2708.ts
-#EXTINF:-1,SW-ar-Nile Family
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2704.ts
-#EXTINF:-1,SW-ar-Nile Drama
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2707.ts
-#EXTINF:-1,SW-ar-Nile Comedy
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2706.ts
-#EXTINF:-1,SW-ar-Nile Cinema
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2705.ts
-#EXTINF:-1,SW-ar-NESSMA TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2732.ts
-#EXTINF:-1,SW-ar-NBN TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2768.ts
-#EXTINF:-1,SW-ar-MTV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2767.ts
-#EXTINF:-1,SW-ar-MEDIA 1 TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2759.ts
-#EXTINF:-1,SW-ar-MBC VIRETY HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2678.ts
-#EXTINF:-1,SW-ar-MBC MAX HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2676.ts
-#EXTINF:-1,SW-ar-MBC MAX
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2677.ts
-#EXTINF:-1,SW-ar-MBC MASR 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2682.ts
-#EXTINF:-1,SW-ar-MBC MASR
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2681.ts
-#EXTINF:-1,SW-ar-MBC DRAMA PLUS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2672.ts
-#EXTINF:-1,SW-ar-MBC DRAMA HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2670.ts
-#EXTINF:-1,SW-ar-MBC DRAMA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2671.ts
-#EXTINF:-1,SW-ar-MBC BOLLYWOOD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2675.ts
-#EXTINF:-1,SW-ar-MBC ACTION HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2673.ts
-#EXTINF:-1,SW-ar-MBC ACTION
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2674.ts
-#EXTINF:-1,SW-ar-MBC 4 HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2668.ts
-#EXTINF:-1,SW-ar-MBC 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2669.ts
-#EXTINF:-1,SW-ar-MBC 3 HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2666.ts
-#EXTINF:-1,SW-ar-MBC 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2667.ts
-#EXTINF:-1,SW-ar-MBC 2 HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2664.ts
-#EXTINF:-1,SW-ar-MBC 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2665.ts
-#EXTINF:-1,SW-ar-MBC 1 HD
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2662.ts
-#EXTINF:-1,SW-ar-MBC 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2663.ts
-#EXTINF:-1,SW-ar-Maghribia Moroco
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2688.ts
-#EXTINF:-1,SW-ar-LDC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2773.ts
-#EXTINF:-1,SW-ar-LBC TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2766.ts
-#EXTINF:-1,SW-ar-KTV 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2757.ts
-#EXTINF:-1,SW-ar-KTV 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2756.ts
-#EXTINF:-1,SW-ar-JORDAN TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2760.ts
-#EXTINF:-1,SW-ar-JORDAN ROYA TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2761.ts
-#EXTINF:-1,SW-ar-IQRAA TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2735.ts
-#EXTINF:-1,SW-ar-Imagine Movies
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2712.ts
-#EXTINF:-1,SW-ar-IKHBARIA SYRIA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2728.ts
-#EXTINF:-1,SW-ar-FUTURE TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2765.ts
-#EXTINF:-1,SW-ar-FUNOON
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2758.ts
-#EXTINF:-1,SW-ar-France 24
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2772.ts
-#EXTINF:-1,SW-ar-Fatafeat Tv
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2747.ts
-#EXTINF:-1,SW-ar-ENNAHAR TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2762.ts
-#EXTINF:-1,SW-ar-EMARAT TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2754.ts
-#EXTINF:-1,SW-ar-Elhiwar Ettounsi
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2731.ts
-#EXTINF:-1,SW-ar-Echourouk Tv
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2738.ts
-#EXTINF:-1,SW-ar-Dubai TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2702.ts
-#EXTINF:-1,SW-ar-Dubai ONE
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2701.ts
-#EXTINF:-1,SW-ar-DMC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2776.ts
-#EXTINF:-1,SW-ar-CBC
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2777.ts
-#EXTINF:-1,SW-ar-BEUR TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2763.ts
-#EXTINF:-1,SW-ar-BEIN SERIES 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2779.ts
-#EXTINF:-1,SW-ar-BEIN SERIES 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2778.ts
-#EXTINF:-1,SW-ar-Bein Movies 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2716.ts
-#EXTINF:-1,SW-ar-Bein Movies 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2715.ts
-#EXTINF:-1,SW-ar-Bein Movies 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2714.ts
-#EXTINF:-1,SW-ar-Bein Movies 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2713.ts
-#EXTINF:-1,SW-ar-BEIN GOURMET
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2755.ts
-#EXTINF:-1,SW-ar-BEIN DRAMA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2780.ts
-#EXTINF:-1,SW-ar-BBC ARABIA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2683.ts
-#EXTINF:-1,SW-ar-Bahrain TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2719.ts
-#EXTINF:-1,SW-ar-B4U PLUS
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2711.ts
-#EXTINF:-1,SW-ar-B4U AFLAM
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2710.ts
-#EXTINF:-1,SW-ar-Assadissa Moroco
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2689.ts
-#EXTINF:-1,SW-ar-Art Hekayat 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2746.ts
-#EXTINF:-1,SW-ar-Art Hekayat
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2745.ts
-#EXTINF:-1,SW-ar-Art Cinema
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2744.ts
-#EXTINF:-1,SW-ar-Art Aflam 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2743.ts
-#EXTINF:-1,SW-ar-Art Aflam 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2742.ts
-#EXTINF:-1,SW-ar-Arriadia Moroco
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2687.ts
-#EXTINF:-1,SW-ar-Arabica TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2696.ts
-#EXTINF:-1,SW-ar-Aoula Moroco
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2686.ts
-#EXTINF:-1,SW-ar-Algeria 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2684.ts
-#EXTINF:-1,SW-ar-Alam News
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2771.ts
-#EXTINF:-1,SW-ar-Al Resalah
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2736.ts
-#EXTINF:-1,SW-ar-Al Nahar Drama
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2734.ts
-#EXTINF:-1,SW-ar-Al Nahar
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2733.ts
-#EXTINF:-1,SW-ar-Al Mayadeen
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2770.ts
-#EXTINF:-1,SW-ar-Al Manar
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2774.ts
-#EXTINF:-1,SW-ar-Al Majd
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2695.ts
-#EXTINF:-1,SW-ar-Al Maghriba
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2690.ts
-#EXTINF:-1,SW-ar-Al Jazeera Doc
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2692.ts
-#EXTINF:-1,SW-ar-Al Jazeera
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2691.ts
-#EXTINF:-1,SW-ar-AL JADEED
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2764.ts
-#EXTINF:-1,SW-ar-AL HAYAT
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2718.ts
-#EXTINF:-1,SW-ar-Al Hadath
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2694.ts
-#EXTINF:-1,SW-ar-AL ARABIYA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2693.ts
-#EXTINF:-1,SW-ar-Abu Dhabi Tv
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2697.ts
-#EXTINF:-1,SW-ar-2m Moroco
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/2685.ts
-#EXTINF:-1,plus-bx6_360p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1859.ts
-#EXTINF:-1,plus-bx6_240p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1860.ts
-#EXTINF:-1,plus-bx5_480p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1856.ts
-#EXTINF:-1,plus-bx5_360p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1857.ts
-#EXTINF:-1,plus-bx5_240p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1858.ts
-#EXTINF:-1,plus-bx4_480p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1853.ts
-#EXTINF:-1,plus-bx4_360p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1854.ts
-#EXTINF:-1,plus-bx4_240p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1855.ts
-#EXTINF:-1,plus-bx3_480p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1850.ts
-#EXTINF:-1,plus-bx3_360p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1851.ts
-#EXTINF:-1,plus-bx3_240p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1852.ts
-#EXTINF:-1,plus-bx2_480p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1847.ts
-#EXTINF:-1,plus-bx2_360p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1848.ts
-#EXTINF:-1,plus-bx2_240p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1849.ts
-#EXTINF:-1,plus-bx1_480p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1846.ts
-#EXTINF:-1,plus-bx1_360p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1844.ts
-#EXTINF:-1,plus-bx1_240p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1845.ts
-#EXTINF:-1,WWS-skyspremierleague
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1838.ts
-#EXTINF:-1,WWS-skysmainevent
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1834.ts
-#EXTINF:-1,WWS-skysgolf
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1837.ts
-#EXTINF:-1,WWS-skysfootball
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1840.ts
-#EXTINF:-1,WWS-skyscricket
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1835.ts
-#EXTINF:-1,WWS-skysarena
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1839.ts
-#EXTINF:-1,WWS-skysaction
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1836.ts
-#EXTINF:-1,WWS-BEIN9
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1831.ts
-#EXTINF:-1,WWS-BEIN8
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1830.ts
-#EXTINF:-1,WWS-BEIN7
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1829.ts
-#EXTINF:-1,wws-bein4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1828.ts
-#EXTINF:-1,WWS-BEIN11
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1833.ts
-#EXTINF:-1,WWS-BEIN10
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1832.ts
-#EXTINF:-1,wws-bein5
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1708.ts
-#EXTINF:-1,Youtube - dmc Drama
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1585.ts
-#EXTINF:-1,wws-bein3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1706.ts
-#EXTINF:-1,wws-bein2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1705.ts
-#EXTINF:-1,wws-bein1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1707.ts
-#EXTINF:-1,WWS-BEIN6
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1639.ts
-#EXTINF:-1,TV3LPC-BEIN SPORT 1-LOW
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1579.ts
-#EXTINF:-1,TV3LPC-BEIN SPORT 6-low
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1575.ts
-#EXTINF:-1,TV3LPC-BEIN SPORT 4-LOW
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1578.ts
-#EXTINF:-1,TV3LPC-BEIN SPORT 3-low
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1577.ts
-#EXTINF:-1,TV3LPC-BEIN SPORT 2-low
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1576.ts
-#EXTINF:-1,TV3LPC- ISO-AR-BEIN SPORT 4
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1373.ts
-#EXTINF:-1,TV3LPC- ISO-AR-BEIN SPORT 3
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1372.ts
-#EXTINF:-1,TV3LPC- ISO-AR-BEIN SPORT 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1371.ts
-#EXTINF:-1,TV3LPC- ISO-AR-BEIN SPORT 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1861.ts
-#EXTINF:-1,TV3LPC- MTV Lebanon
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1292.ts
-#EXTINF:-1,TV3LPC- AD National Geo - 480p
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1291.ts
-#EXTINF:-1,TV3LPC-Rotana Classic
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/768.ts
-#EXTINF:-1,TV3LPC-Rotana Cinema
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/770.ts
-#EXTINF:-1,TV3LPC-Rotana Aflam
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/769.ts
-#EXTINF:-1,TV3LPC-osnm
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/767.ts
-#EXTINF:-1,TV3LPC- Toyour Jana
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/784.ts
-#EXTINF:-1,TV3LPC- TRT-AR
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1145.ts
-#EXTINF:-1,TV3LPC- Sona Nabawia
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1143.ts
-#EXTINF:-1,TV3LPC- sky news-ar
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1146.ts
-#EXTINF:-1,TV3LPC- Real Madrid TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1152.ts
-#EXTINF:-1,TV3LPC- Quran
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1142.ts
-#EXTINF:-1,TV3LPC- Omantv1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1141.ts
-#EXTINF:-1,TV3LPC- Mekameleen
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1151.ts
-#EXTINF:-1,TV3LPC- DW-EN
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1137.ts
-#EXTINF:-1,TV3LPC- DW-AR
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1136.ts
-#EXTINF:-1,TV3LPC- Dubai Zaman
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1134.ts
-#EXTINF:-1,TV3LPC- BBC arabia
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1148.ts
-#EXTINF:-1,TV3LPC- Ayat
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1144.ts
-#EXTINF:-1,TV3LPC- ALRAi
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1139.ts
-#EXTINF:-1,TV3LPC- Aljazeera-ar
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1149.ts
-#EXTINF:-1,TV3LPC- alaraby
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1150.ts
-#EXTINF:-1,TV3LPC- Alaan
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1135.ts
-#EXTINF:-1,TV3LPC- AL Bahrain
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1140.ts
-#EXTINF:-1,TV3LPC- Al arabiya
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1147.ts
-#EXTINF:-1,TV3LPC- AD Sports 2
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1154.ts
-#EXTINF:-1,TV3LPC- AD Sports 1
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1153.ts
-#EXTINF:-1,TV3LPC- AD DRAMA
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1133.ts
-#EXTINF:-1,TV3LPC- 2M
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1132.ts
-#EXTINF:-1,TV3LPC- Spacetoon
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/783.ts
-#EXTINF:-1,TV3LPC- Semsem TV
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/782.ts
-#EXTINF:-1,TV3LPC- ISO-AR-BEIN SPORT 5
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/971.ts
-#EXTINF:-1,TV3LPC- Fox Movie
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/773.ts
-#EXTINF:-1,TV3LPC- DMC Drama
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/779.ts
-#EXTINF:-1,TV3LPC- Cbc one
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/781.ts
-#EXTINF:-1,TV3LPC- AD National Geo
-http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/776.ts
+#EXTINF:-1 tvg-id="" tvg-name="###### -- |USA| USA |USA| -- ######" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f-23bdCCIOOjbNm8BFaVLK76W2qLZR2A0jFJ2KivYuPeyw2dCueQhBS9" group-title="USA",###### -- |USA| USA |USA| -- ######
+http://xpro.one-iptv.com:25443/mgs/1234/22498
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA SPORTS *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF_smbtzD2kziB7lSw0sUoCV5hefapJmbNwgPB20duiTzfZ12WL_Y-lWo" group-title="USA",|USA  | ***** USA SPORTS *****
+http://xpro.one-iptv.com:25443/mgs/1234/31851
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="|USA *| MSNBC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRTT2DcGs6j1H_ngW7j3f4f2oFyqKF7AaB3hJiY1IoJ53feOuaK-imG1tO" group-title="USA",|USA *| MSNBC HD
+http://xpro.one-iptv.com:25443/mgs/1234/31617
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="|USA  | MSNBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqNfp7tX_WYlMCwhoH_nXA6zP_-BL8aMIir5DOjvdOxKimlv1S2A9GD2t7" group-title="USA",|USA  | MSNBC
+http://xpro.one-iptv.com:25443/mgs/1234/31724
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="|USA  | MSNBC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_GudDFUAOgJefCUtG64h4R2HUjiNA2znM726lz0ODQUT-UbG0ulvtpDZ" group-title="USA",|USA  | MSNBC HD
+http://xpro.one-iptv.com:25443/mgs/1234/31808
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="|USA *| NBC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpTF-W9_tbBvW_e0Wha_TkGTzwNSoWqQY4nS79By1VfqMLWOIVj0AuTN4" group-title="USA",|USA *| NBC HD
+http://xpro.one-iptv.com:25443/mgs/1234/31700
+#EXTINF:-1 tvg-id="NBC.us" tvg-name="|USA  | NBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6Pr6JjW_UmUgqZOEdGo92pjIMf53OaKzYQyXTt8ym-lUCbxhEBMAeDr-_A" group-title="USA",|USA  | NBC
+http://xpro.one-iptv.com:25443/mgs/1234/31786
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="|USA *| NBCSN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0W2y99F13UWLBGQXtN7MQghFV359h1TjEayMNJQfM-MJhqlYfDUcwl0CgrA" group-title="USA",|USA *| NBCSN HD
+http://xpro.one-iptv.com:25443/mgs/1234/31612
+#EXTINF:-1 tvg-id="NBCSportsNetwork.us" tvg-name="|USA  | NBCSNHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f-23bdCCIOOjbNm8BFaVLK76W2qLZR2A0jFJ2KivYuPeyw2dCueQhBS9" group-title="USA",|USA  | NBCSNHD
+http://xpro.one-iptv.com:25443/mgs/1234/31768
+#EXTINF:-1 tvg-id="AFNSports.us" tvg-name="|USA *| AFN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Ln0QtDkOrz1EAkYJwsTHUUNLupmLZSHL4Nth7hQzpPAj8KaHTtqppA" group-title="USA",|USA *| AFN Sports
+http://xpro.one-iptv.com:25443/mgs/1234/31681
+#EXTINF:-1 tvg-id="AFNSports2.us" tvg-name="|USA *| AFN Sports 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8SY0ZwMx4tMCjB-qVDrGRCUZQYvDrKbVIXfdm_Kl4zQ2cE8zVU7MEd8" group-title="USA",|USA *| AFN Sports 2
+http://xpro.one-iptv.com:25443/mgs/1234/31680
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="|USA *| BEIN Sports HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRec0mVUgRyImnfuF7qnpokOqpAYd4go29HE7l9xz-eT1OP2AVW4DG2mMIt" group-title="USA",|USA *| BEIN Sports HD
+http://xpro.one-iptv.com:25443/mgs/1234/31693
+#EXTINF:-1 tvg-id="beINSports.us" tvg-name="|USA  | Bein Sports USA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIMPICOD1KuCXY1bXRGJDLU37fWmD-mIMtjjNz_EhHjaAZm0UYldfwK9x5uw" group-title="USA",|USA  | Bein Sports USA HD
+http://xpro.one-iptv.com:25443/mgs/1234/31827
+#EXTINF:-1 tvg-id="BET.us" tvg-name="|USA *| BET HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQWzb1C16dAA9OAkzyUVYTG45zjo1Ch6eA6G-PQe03p6HnaSdLjoGdlradLA" group-title="USA",|USA *| BET HD
+http://xpro.one-iptv.com:25443/mgs/1234/31677
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | BTN Sport HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6WIXiocQxk0cdenWshAhxt6zikAwpouzmK7fflaHxLFWIqv9eDQbyy6s" group-title="USA",|USA  | BTN Sport HD
+http://xpro.one-iptv.com:25443/mgs/1234/31709
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| BTN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRabCPEcUIWcUKnSK6xwDUpLAecIjzuye9vvJ4Yf2RroK6EIBMFUONOlQ" group-title="USA",|USA *| BTN HD
+http://xpro.one-iptv.com:25443/mgs/1234/31672
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="|USA *| Big Ten Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9U0VjTdtzBXeU6VcORj1NUNf8ZmJgV4M-h5glFlBDP6Zd01FzTJgCGg" group-title="USA",|USA *| Big Ten Network
+http://xpro.one-iptv.com:25443/mgs/1234/31676
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="|USA *| ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoQBzqMovDOQ1dNWBNhUQd3fGzzSviWAoyWK-_bEhwtIy-So1lCKgNTE" group-title="USA",|USA *| ESPN
+http://xpro.one-iptv.com:25443/mgs/1234/31647
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="|USA  | ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXoQBzqMovDOQ1dNWBNhUQd3fGzzSviWAoyWK-_bEhwtIy-So1lCKgNTE" group-title="USA",|USA  | ESPN
+http://xpro.one-iptv.com:25443/mgs/1234/31765
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="|USA  | ESPN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmy0yPBTUH8ousejEzWyFiDhbzz9qWNdzqyAnHKDPzwbTp5D-wWDId22RG" group-title="USA",|USA  | ESPN HD
+http://xpro.one-iptv.com:25443/mgs/1234/31755
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="|USA  | ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4PLtyKPxwA20oqO8WNXHNNxRirzcJT82rqhWLhl_H5ysEMIcYpxgUG3I" group-title="USA",|USA  | ESPN 2
+http://xpro.one-iptv.com:25443/mgs/1234/31805
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="|USA *| ESPN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHh7u_EFu8BWznVxG3_bsIAZdHEwR4rj8o7GlyGyULagKrB8CiXd14zwRL" group-title="USA",|USA *| ESPN 2 HD
+http://xpro.one-iptv.com:25443/mgs/1234/31646
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| ESPN 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdF-Lk6CuSG15rxHO0gqgnucHDrX9lRPVo-Z83ZUErvBtxL2BBfqW7cn9Rg" group-title="USA",|USA *| ESPN 3
+http://xpro.one-iptv.com:25443/mgs/1234/31645
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="|USA  | ESPN U HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRarCH7ch5RZwnlnrJpnwYZvJuiOgEYgszHiUbKG2hLiyxjPonY72tvPj4" group-title="USA",|USA  | ESPN U HD
+http://xpro.one-iptv.com:25443/mgs/1234/31778
+#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="|USA *| ESPN U HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdF-Lk6CuSG15rxHO0gqgnucHDrX9lRPVo-Z83ZUErvBtxL2BBfqW7cn9Rg" group-title="USA",|USA *| ESPN U HD
+http://xpro.one-iptv.com:25443/mgs/1234/31643
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="|USA *| ESPN Deportes HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMAx_h7bjENb6JdgoDEVi2WDKYHqszqcagpMwE4KinTe0Is7gL2VA8lk" group-title="USA",|USA *| ESPN Deportes HD
+http://xpro.one-iptv.com:25443/mgs/1234/31644
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="|USA *| CBS Sports Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYJqcEDAvok0Xz65HCoKwm5AW2uAHsKE58LuZgjCB6DUyUA4IIcGEzTVQ" group-title="USA",|USA *| CBS Sports Network
+http://xpro.one-iptv.com:25443/mgs/1234/31665
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="|USA  | CBS Sports Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlsIGyZhwy_s1puctY6hpB9AaqsKO_Z2hvkGzxbaOTd8b6LRtE8RYXsU-V" group-title="USA",|USA  | CBS Sports Network HD
+http://xpro.one-iptv.com:25443/mgs/1234/31710
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="|USA  | CBSN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_GudDFUAOgJefCUtG64h4R2HUjiNA2znM726lz0ODQUT-UbG0ulvtpDZ" group-title="USA",|USA  | CBSN HD
+http://xpro.one-iptv.com:25443/mgs/1234/31731
+#EXTINF:-1 tvg-id="CBS.us" tvg-name="|USA *| CBS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTKiTloOTAwM_Ldyc8U0odYhtjtUGB2zxMBF0R80tt3mMbsJSosg0Gq8" group-title="USA",|USA *| CBS
+http://xpro.one-iptv.com:25443/mgs/1234/31666
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="|USA *| FOX Sports 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi1tAu1BYKrxBKTYxB7OuNZqtWlbpU3kXEeEPKrv1o1j8hTYzdisctbw" group-title="USA",|USA *| FOX Sports 1 HD
+http://xpro.one-iptv.com:25443/mgs/1234/31698
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="|USA *| FOX Sports 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuxKIAtkp94lDdKaas4Q2TWBXA7utvtwvUtrzN75mYnF5Qo47qRdMTi_U" group-title="USA",|USA *| FOX Sports 2 HD
+http://xpro.one-iptv.com:25443/mgs/1234/31699
+#EXTINF:-1 tvg-id="FX.us" tvg-name="|USA *| FX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SrLm1t4Gc5At7WIkySXtlh_2_QRQpKgQangoJWFN-bUP1QxsYkLks_5c" group-title="USA",|USA *| FX HD
+http://xpro.one-iptv.com:25443/mgs/1234/31636
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="|USA *| FXX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf4ezCWCvgMzeGYCq5qMjlKHq5i2pQ4HeNMUb8V4MtP---0Qx0kX9gmHU" group-title="USA",|USA *| FXX HD
+http://xpro.one-iptv.com:25443/mgs/1234/31635
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="|USA *| Food Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDLrDC4OsJRpeonLFe9KNxoE3OWnKtgZMOcPANsJi-QOmbsotvvsPrQ" group-title="USA",|USA *| Food Network HD
+http://xpro.one-iptv.com:25443/mgs/1234/31641
+#EXTINF:-1 tvg-id="FOXSoccerPlus.us" tvg-name="|USA *| Fox Soccer" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEf8B9O-v5zLW4H4NX9kB_E-ZJuFxpUR1U2Xah1k-ZvmTBAaL7pS3Pf0Q" group-title="USA",|USA *| Fox Soccer
+http://xpro.one-iptv.com:25443/mgs/1234/31642
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="|USA  | Fox Sports 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzmy3RlRkXw5-EcSKHHtB353Aw6Z0rnHiMQR4IdffXGMG6DyhX6nBHDZdW" group-title="USA",|USA  | Fox Sports 1 HD
+http://xpro.one-iptv.com:25443/mgs/1234/31766
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="|USA  | Fox Sports 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEJcVTE5GQ2M8JZ8MENmtjMyMaOhaKUEZY34wNMKA6Uo_upbTdVBBwJGC" group-title="USA",|USA  | Fox Sports 2 HD
+http://xpro.one-iptv.com:25443/mgs/1234/31767
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="|USA  | Fox sport 1 backup" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3zvCVVs0EX0lRExW8HutrIOedEXgVGYs-TzrKLkRvx3mNURy0l7Yd822w" group-title="USA",|USA  | Fox sport 1 backup
+http://xpro.one-iptv.com:25443/mgs/1234/31708
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="|USA *| Golf HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCspjuwUi2-Eyv0tWNdN_xDDKkCq8qNz6435rm3PDi5x9C_xCHHrWSOQ" group-title="USA",|USA *| Golf HD
+http://xpro.one-iptv.com:25443/mgs/1234/31634
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="|USA *| MLB Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC4uDrXiwox0afgrWU25_q2hpEaC2WjymivhwYBM_rXEW2c2aHQ0oIgFbqng" group-title="USA",|USA *| MLB Network
+http://xpro.one-iptv.com:25443/mgs/1234/31619
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="|USA  | MLB Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaQUBt2mVjZPiR_fks_6SG45tCsHBuYFGUj2dvfMVP94jqb6Mx_fzXI9I" group-title="USA",|USA  | MLB Network
+http://xpro.one-iptv.com:25443/mgs/1234/31807
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="|USA  |  NBA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwrbikoY-XegJHARCaJH8JRIcJlXvWe6tvawgCFcqQhf-Ab0xRRn41_Q" group-title="USA",|USA  |  NBA TV HD
+http://xpro.one-iptv.com:25443/mgs/1234/31741
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="|USA *| NBA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTinj-iDrG8c2k0GGpw4eqsKu9OXFpxKXnUXnbNobh8a3O1WzL2E7YRGW5i" group-title="USA",|USA *| NBA TV HD
+http://xpro.one-iptv.com:25443/mgs/1234/31614
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| NBC Golf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9p2MVigNSFol1soXWo1PUrYVlpKq-3oKoeImlUVUwaWaL9k4bMkV5Dc" group-title="USA",|USA *| NBC Golf
+http://xpro.one-iptv.com:25443/mgs/1234/31613
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | NBC Golf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-wN5sr4xBXQ_jXKSkeSr2Hls78MV_TH-cWzybut5x8pUAaHcsLKFvg" group-title="USA",|USA  | NBC Golf
+http://xpro.one-iptv.com:25443/mgs/1234/31759
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="|USA  | NHL Network(1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvwQ8HPotPmCv8QK9XlHc1yTHznzPw64v7X0jjgXk-uK8mQt199spy89UV" group-title="USA",|USA  | NHL Network(1)
+http://xpro.one-iptv.com:25443/mgs/1234/31809
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="|USA *| NHL Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxCe69Ml_1ehIGq1jKLt4Pn8p6HBUV6y_Y8v5JDwYGikUXyUrsJth4vbGI" group-title="USA",|USA *| NHL Network HD
+http://xpro.one-iptv.com:25443/mgs/1234/31611
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="|USA *| SEC Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVRIthyXRz3eecCSSYWHP_xgNBFZY8rEj-mdXrbpG7_E8dgZaIN8WTsDQ" group-title="USA",|USA *| SEC Network HD
+http://xpro.one-iptv.com:25443/mgs/1234/31604
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="|USA  | SEC Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbeAyAyEKOK_G9lCpGMOezjKDb09MMe2b1ch6lnn3hYcUuuNDuqLgsrQ" group-title="USA",|USA  | SEC Network
+http://xpro.one-iptv.com:25443/mgs/1234/31810
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="|USA  | TNT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-MQ2HFs1G6CO-iLVGXBV5L_xttx_49eySOnJrOAA2y7PMfFSwTuDQNbQ" group-title="USA",|USA  | TNT HD
+http://xpro.one-iptv.com:25443/mgs/1234/31762
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| TNT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRI8Br1GUpOU5zdFvSWJ2UxhC3IhsE01X_QyJCQCyEd_4-FuCM7KWTPun9" group-title="USA",|USA *| TNT HD
+http://xpro.one-iptv.com:25443/mgs/1234/31596
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="|USA *| TSN HD 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0tmD7nDJf3S16w6IEBegNM_8tTq_t_mFa_tnZbzgtFCPSIsfvT8vVV9I" group-title="USA",|USA *| TSN HD 1
+http://xpro.one-iptv.com:25443/mgs/1234/31705
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="|USA *| TSN HD 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfQyHmlvFrF-CZio3jbBEY2sff2H-bOiDKmB9mhFboPi81SEcB0Qt1ui9" group-title="USA",|USA *| TSN HD 2
+http://xpro.one-iptv.com:25443/mgs/1234/31704
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="|USA *| TSN HD 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0tmD7nDJf3S16w6IEBegNM_8tTq_t_mFa_tnZbzgtFCPSIsfvT8vVV9I" group-title="USA",|USA *| TSN HD 3
+http://xpro.one-iptv.com:25443/mgs/1234/31703
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="|USA *| TSN HD 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0tmD7nDJf3S16w6IEBegNM_8tTq_t_mFa_tnZbzgtFCPSIsfvT8vVV9I" group-title="USA",|USA *| TSN HD 4
+http://xpro.one-iptv.com:25443/mgs/1234/31702
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="|USA *| TSN HD 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0tmD7nDJf3S16w6IEBegNM_8tTq_t_mFa_tnZbzgtFCPSIsfvT8vVV9I" group-title="USA",|USA *| TSN HD 5
+http://xpro.one-iptv.com:25443/mgs/1234/31701
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="|USA  | TSN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgE1VXFIuDP4XHl5pcVB7OIxGghLc6HYIwD-f79REbwH5Gk5rWO-4WXp5q" group-title="USA",|USA  | TSN 1
+http://xpro.one-iptv.com:25443/mgs/1234/31813
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="|USA  | TSN 3*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2PNvFnZOQ2PAo9chgiEW0Ufj_k08wrqCXCqO5BOH6Hgss4r1z8I17jlDv" group-title="USA",|USA  | TSN 3*
+http://xpro.one-iptv.com:25443/mgs/1234/31815
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="|USA  | CA | TSN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCcVjsebBdeHBwzhihTYm3I1oEC4UWwAiOCqPRg8DQFg7g0vitdCilyuM" group-title="USA",|USA  | CA | TSN 2
+http://xpro.one-iptv.com:25443/mgs/1234/31814
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="|USA  | CA | TSN 4 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrrfcGXlBOEMGgPGQR0nQtpHtcGEZTVYPZPaczMjYNoBVNoKW35AQc9II" group-title="USA",|USA  | CA | TSN 4 HD
+http://xpro.one-iptv.com:25443/mgs/1234/31816
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="|USA  | CA | TSN 5*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCfn6uyAhpddtcSMj1H_ghgNbLKak2jAW9uB1THhcwQnbb8QXs9Ouu6CY" group-title="USA",|USA  | CA | TSN 5*
+http://xpro.one-iptv.com:25443/mgs/1234/31817
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="|USA  | Tennis Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | Tennis Channel HD
+http://xpro.one-iptv.com:25443/mgs/1234/31749
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="|USA *| Tennis HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbppVfqMA5j7zgYOJIy_QepQrxSg0Lv6oMwC98IeXDcMXw-lMWbQ6_3Xw" group-title="USA",|USA *| Tennis HD
+http://xpro.one-iptv.com:25443/mgs/1234/31599
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="|USA *| WWE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWBKdPJsoHvmpRYRZzlKu-saLR62frFS8OeEmwHtKWJEyZ_2AZndELDc" group-title="USA",|USA *| WWE HD
+http://xpro.one-iptv.com:25443/mgs/1234/31590
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="|USA *| WWE Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkeepfqppAPoS95sJvZTQLsDtvtGZDtP4GPswVUr--e4Mt8wxH26duyg" group-title="USA",|USA *| WWE Network HD
+http://xpro.one-iptv.com:25443/mgs/1234/31589
+#EXTINF:-1 tvg-id="WWE.us" tvg-name="|USA  | WWE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4xXodyeHGijnds5gYya1ugOYmOahFk_KViMQH1YKnxieo_fj_ygJt8uSl" group-title="USA",|USA  | WWE HD
+http://xpro.one-iptv.com:25443/mgs/1234/31775
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="|USA *| Willow Cricket HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarHt-VP8jZkXNFL0Cg-maAt_0p-BbC08gc2KF_bZqEF3nKfum3Jo-vJWs" group-title="USA",|USA *| Willow Cricket HD
+http://xpro.one-iptv.com:25443/mgs/1234/31591
+#EXTINF:-1 tvg-id="AFNSports.us" tvg-name="|USA  | AFN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiFUkK0coS3CLuVVlZSxeIiXInsYzEsOtHCY8d8EJz9qDuwdU66oCZR9AS" group-title="USA",|USA  | AFN SPORTS
+http://xpro.one-iptv.com:25443/mgs/1234/31825
+#EXTINF:-1 tvg-id="AFNSports2.us" tvg-name="|USA  | AFN SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8SY0ZwMx4tMCjB-qVDrGRCUZQYvDrKbVIXfdm_Kl4zQ2cE8zVU7MEd8" group-title="USA",|USA  | AFN SPORTS 2
+http://xpro.one-iptv.com:25443/mgs/1234/31826
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | FIGHT SPORT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0wkGl0OAU1LdhOGbvDnhFlxeL0-P-BGbw_p9WtKqn0_v12js4bx1rOTyJ" group-title="USA",|USA  | FIGHT SPORT
+http://xpro.one-iptv.com:25443/mgs/1234/31818
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | FOX 43" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSMiR9OUaw7NrtY5_5lut6QF64HAdvqAy2ZwTpLOSxX9hh203Z-M0aCU8" group-title="USA",|USA  | FOX 43
+http://xpro.one-iptv.com:25443/mgs/1234/31806
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="|USA  | FOX NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAl-LJfrrQZQjpIWz-nB6-m0YBki4QFbWLF1oqw1nVqFFAiMRO75nVJNxf" group-title="USA",|USA  | FOX NEWS HD
+http://xpro.one-iptv.com:25443/mgs/1234/31756
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | FOXX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | FOXX HD
+http://xpro.one-iptv.com:25443/mgs/1234/31834
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | FUEL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_GudDFUAOgJefCUtG64h4R2HUjiNA2znM726lz0ODQUT-UbG0ulvtpDZ" group-title="USA",|USA  | FUEL HD
+http://xpro.one-iptv.com:25443/mgs/1234/31791
+#EXTINF:-1 tvg-id="FX.us" tvg-name="|USA  | FX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl2-hVxQCPAf9qx6r-J7LxTaWcFI4zrr3Le1wDs5Pl8R_S7JO3CC2B4zEB" group-title="USA",|USA  | FX HD
+http://xpro.one-iptv.com:25443/mgs/1234/31835
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Fight HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | Fight HD
+http://xpro.one-iptv.com:25443/mgs/1234/31735
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="|USA  | NFL Network 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72U56vlUqW9kmmCjURwS77aOeDNRKrMkx5zBdKubffkrdQH6l_7BpFAKV" group-title="USA",|USA  | NFL Network 1
+http://xpro.one-iptv.com:25443/mgs/1234/31798
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="|USA  | NFL Network 1080i" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReHlccRp5cRW65YN7dNNrfZ-Uj-IVjQJOUD5-K11wvrQV3wfaw5NKIgfA" group-title="USA",|USA  | NFL Network 1080i
+http://xpro.one-iptv.com:25443/mgs/1234/31727
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="|USA  | NFL REDZONE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5ee8n0JucCViMYWjZgxI66N6P6lLKrZ3ukwGkEqceSXtowlo1MHUPJKmn" group-title="USA",|USA  | NFL REDZONE SD
+http://xpro.one-iptv.com:25443/mgs/1234/31726
+#EXTINF:-1 tvg-id="PAC12Arizona.us" tvg-name="|USA  | PAC-12 Arizona" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWo6KYs_3JCBF2Awt0uwkT-JnvCQQsKDbUBo1Fx3FlkVdhSM6fjLWnyIZyg" group-title="USA",|USA  | PAC-12 Arizona
+http://xpro.one-iptv.com:25443/mgs/1234/31769
+#EXTINF:-1 tvg-id="PAC12BayArea.us" tvg-name="|USA  | PAC-12 Bay Area" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVTrDpCHAe0DscbOrwY7cQYSHM71LvwnDevTzqUnOWJEI7URnyyXXHROi9Bg" group-title="USA",|USA  | PAC-12 Bay Area
+http://xpro.one-iptv.com:25443/mgs/1234/31770
+#EXTINF:-1 tvg-id="PAC12LosAngeles.us" tvg-name="|USA  | PAC-12 Los Angeles" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWo6KYs_3JCBF2Awt0uwkT-JnvCQQsKDbUBo1Fx3FlkVdhSM6fjLWnyIZyg" group-title="USA",|USA  | PAC-12 Los Angeles
+http://xpro.one-iptv.com:25443/mgs/1234/31771
+#EXTINF:-1 tvg-id="PAC12Oregon.us" tvg-name="|USA  | PAC-12 Oregon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpAJX-UGmm4xcnXvkmRu1qTVlqosn2eEV92WtV_31cci7Hy-J5MLhNL4" group-title="USA",|USA  | PAC-12 Oregon
+http://xpro.one-iptv.com:25443/mgs/1234/31772
+#EXTINF:-1 tvg-id="PAC12Washington.us" tvg-name="|USA  | PAC-12 Washington" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsIOMJJB54bf5Lwg0by_c37HYO1Ad9D_xVa16v_cbjHWIsPhYX-yncasdx" group-title="USA",|USA  | PAC-12 Washington
+http://xpro.one-iptv.com:25443/mgs/1234/31773
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-name="|USA  | Sports-Net" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydsZNl8to9bgMT04YguM5WKvFa6YI4Yi4S9KbuYOaQ2vV3kGVPbM8q-cd" group-title="USA",|USA  | Sports-Net
+http://xpro.one-iptv.com:25443/mgs/1234/31844
+#EXTINF:-1 tvg-id="Sportsnet360.ca" tvg-name="|USA  | Sportsnet 360 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMpbSIfvOWu5JCeAIP_jm8nR0AmTm3kG-xVUR4nItiLDbEd67z77ia4og" group-title="USA",|USA  | Sportsnet 360 HD
+http://xpro.one-iptv.com:25443/mgs/1234/31812
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | VIP: BAYERN FC TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2U9hZQD4w1hGGiCxbrpdhFv7YW92jM0vWAt8eQBXBh74kF6EQBjRt_Y" group-title="USA",|USA  | VIP: BAYERN FC TV FHD
+http://xpro.one-iptv.com:25443/mgs/1234/31712
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA CARTOONS *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkmpYaCAeRy749fKOf3dMc2pXhOZxxgbSkmxUIfItbBv_TvpW-4RYaY9M" group-title="USA",|USA  | ***** USA CARTOONS *****
+http://xpro.one-iptv.com:25443/mgs/1234/31850
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Nursery Rhymes (Baby Songs)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDoTL72xSrsOkMCN_AmkguuV6qZ0SZsA5WOlpthUt0eKP-ikT2QQ8BDTHX" group-title="USA",|USA  | Nursery Rhymes (Baby Songs)
+http://xpro.one-iptv.com:25443/mgs/1234/31782
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="|USA *| Boomerang HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn642kVU3YOtglbv9khS42zyFAkmTv0NpfvHz-ENviTpDLceH5u34dAn7C" group-title="USA",|USA *| Boomerang HD
+http://xpro.one-iptv.com:25443/mgs/1234/31674
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="|USA *| Disney Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ72QR3RnJuyuLlys3gEe9R2Ppl7kXZOtPQx1nEFY9lNuv4ib6qIyWc9n8" group-title="USA",|USA *| Disney Channel HD
+http://xpro.one-iptv.com:25443/mgs/1234/31652
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="|USA *| Disney Jr. HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsLdjQh9-9BLhd9R2iWHPsdG-4kT0Z-DrutI5kvDDaB2lKfeQXPc9LBc" group-title="USA",|USA *| Disney Jr. HD
+http://xpro.one-iptv.com:25443/mgs/1234/31651
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="|USA  | DISNEY JR HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vacQlQb_4PBdzUYuBPhhs8gaACZENx7dlsWO7zZ82PFUkz2_zAh3e8oB" group-title="USA",|USA  | DISNEY JR HD
+http://xpro.one-iptv.com:25443/mgs/1234/31720
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="|USA  | NICKELODEN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_GudDFUAOgJefCUtG64h4R2HUjiNA2znM726lz0ODQUT-UbG0ulvtpDZ" group-title="USA",|USA  | NICKELODEN HD
+http://xpro.one-iptv.com:25443/mgs/1234/31839
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="|USA *| Nick Jr. HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU1U71xvbMXmzEPG6XFcUxHuV0pzX7NQizkdcN6eIivRI0PrX99onIOCM" group-title="USA",|USA *| Nick Jr. HD
+http://xpro.one-iptv.com:25443/mgs/1234/31610
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="|USA *| Nickelodean HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQJjqeX-MFbu_M9Hk8JCP9kISdOBLiv6yp886MRs1cmZKKeBDcjlzocfw" group-title="USA",|USA *| Nickelodean HD
+http://xpro.one-iptv.com:25443/mgs/1234/31609
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="|USA *| Nicktoons HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7cObmSEoQ7Lm7aKUTKdgOQ8AYTL4Ms7AYJTq2zO4WFWeLOTTW3iJuAs8" group-title="USA",|USA *| Nicktoons HD
+http://xpro.one-iptv.com:25443/mgs/1234/31608
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="|USA *| Bloomberg HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkcmWp7o8SIKf-HvPXO5IshQ2TMWd7soRGOicbkoLnrKQIZbSsy7_qpQ" group-title="USA",|USA *| Bloomberg HD
+http://xpro.one-iptv.com:25443/mgs/1234/31675
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="|USA  | Bloomberg Europe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1uBqxfYop-YWtywEqQDHqE0HMjaDAweMhdbwI8r5lOfxKUGNe70pkBYdK" group-title="USA",|USA  | Bloomberg Europe
+http://xpro.one-iptv.com:25443/mgs/1234/31797
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="|USA  | Bloomberg TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDK51xhQRoKP1JZZemmYJM8tTiCa1Rab0PanjnjvQ7yn3_WF4R1NZqUOQ6" group-title="USA",|USA  | Bloomberg TV
+http://xpro.one-iptv.com:25443/mgs/1234/31785
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="|USA  | CARTOON NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXnua9FvrmRxnpGbBliiDQkuYtPqjTw-pNm2_zVezmo0wobfZOujYdJ_C9" group-title="USA",|USA  | CARTOON NETWORK
+http://xpro.one-iptv.com:25443/mgs/1234/31730
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="|USA *| Cartoon Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiYalf6nnFf1SY10-FC3rHyvslDusBGfc75qTxjfuDDlZb4tzNxTUGJJs" group-title="USA",|USA *| Cartoon Network
+http://xpro.one-iptv.com:25443/mgs/1234/31668
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Toon Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxKxtEdogvxe3e6_YOFp0XWSzyhyNvcArItfMoEPNy7uMgBIHGbzvzBE7" group-title="USA",|USA  | Toon Kids
+http://xpro.one-iptv.com:25443/mgs/1234/31722
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA CINEMA *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXrnqraZ01GWfjshA2_JcC-ojjAgWGBZ_grKKZv84kg873pFOp9ptiF10" group-title="USA",|USA  | ***** USA CINEMA *****
+http://xpro.one-iptv.com:25443/mgs/1234/31849
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="|USA *| Action Max" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIp1aMP8DWYewrJZL6kb9s6WB_JlvEr86ttgFgXjjrLV2sglFjh3SkwJY" group-title="USA",|USA *| Action Max
+http://xpro.one-iptv.com:25443/mgs/1234/31684
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="|USA *| BBC America HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhx0FtXGijlUtCurBdBYRAK_XaoQNy_9b5ktuWQudwNY2WpKz0-1jjAiEx" group-title="USA",|USA *| BBC America HD
+http://xpro.one-iptv.com:25443/mgs/1234/31678
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="|USA *| Comedy Central" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0qU3-zMrK3RLo7KS10yfQ11KTzE3uYf5DfLv86hItgVqv9BDs2aBcr8" group-title="USA",|USA *| Comedy Central
+http://xpro.one-iptv.com:25443/mgs/1234/31661
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="|USA  | COMEDY CENTRAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsbo5R_JkZmZsOmYSoQ6rOVdVDcEs1dvCWgvT-Xnn9HdclQs42l-DyvBU" group-title="USA",|USA  | COMEDY CENTRAL HD
+http://xpro.one-iptv.com:25443/mgs/1234/31753
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| Cinemax 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hvAG2VblI2OATKamaKI9FwsBgH0_4_SkQzqeDR94t4VsVIN5EVWGNE8" group-title="USA",|USA *| Cinemax 5
+http://xpro.one-iptv.com:25443/mgs/1234/31664
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="|USA *| Cinemax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2bXC7TUZEyp7Y76EGBptSnGkawrZ4E5Pdov7ZBtUZICkkFTsGNod-EvCy" group-title="USA",|USA *| Cinemax HD
+http://xpro.one-iptv.com:25443/mgs/1234/31706
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="|USA *| Cinemax Moremax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hvAG2VblI2OATKamaKI9FwsBgH0_4_SkQzqeDR94t4VsVIN5EVWGNE8" group-title="USA",|USA *| Cinemax Moremax
+http://xpro.one-iptv.com:25443/mgs/1234/31663
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="|USA *| Cinemax MoreMax HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hvAG2VblI2OATKamaKI9FwsBgH0_4_SkQzqeDR94t4VsVIN5EVWGNE8" group-title="USA",|USA *| Cinemax MoreMax HD
+http://xpro.one-iptv.com:25443/mgs/1234/31662
+#EXTINF:-1 tvg-id="5StarMax.us" tvg-name="|USA  | Cinemax 5 StarMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmiEPI11TYF22DtRNr8d0_B4FAhP_W4f9UpIITU4Plc1FyZtx-o7yaWiA" group-title="USA",|USA  | Cinemax 5 StarMax
+http://xpro.one-iptv.com:25443/mgs/1234/31828
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="|USA  | CINEMAX ACTION HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT39YMet-R3DKwzMnsBIDlmZZd9wIpWKEZxbl_ZQvgUMinqD483yqg0fGM" group-title="USA",|USA  | CINEMAX ACTION HD
+http://xpro.one-iptv.com:25443/mgs/1234/31803
+#EXTINF:-1 tvg-id="ActionMax.us" tvg-name="|USA  | Cinemax ActionMax East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hvAG2VblI2OATKamaKI9FwsBgH0_4_SkQzqeDR94t4VsVIN5EVWGNE8" group-title="USA",|USA  | Cinemax ActionMax East
+http://xpro.one-iptv.com:25443/mgs/1234/31829
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Cinemax East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjmsfGnX6sI59hOpQZ7ymbTQFdv1S1aXexNx56QSFme13JkAf-BWQb7Qzw" group-title="USA",|USA  | Cinemax East
+http://xpro.one-iptv.com:25443/mgs/1234/31830
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Cinemax East HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6hvAG2VblI2OATKamaKI9FwsBgH0_4_SkQzqeDR94t4VsVIN5EVWGNE8" group-title="USA",|USA  | Cinemax East HD
+http://xpro.one-iptv.com:25443/mgs/1234/31796
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="|USA  | Cinemax MoreMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtSzOMOzOuYENyWU3cwmcC7TPzPBn-wxNyTEW8s-zyPzISPmdUdcpP5Q" group-title="USA",|USA  | Cinemax MoreMax
+http://xpro.one-iptv.com:25443/mgs/1234/31795
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="|USA  | HBO Comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGNIY1k7pBV9VV5-1ZaO6ut5Yao3xz-wq-bFb3Iw5s_ggCImxGuJ9T9dc" group-title="USA",|USA  | HBO Comedy
+http://xpro.one-iptv.com:25443/mgs/1234/31736
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="|USA  | HBO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmQfWllaON7mcRVqfHrU_pFkHZWyIQ4xvCPESPqt4_X3ZM4bVcROcctN1r" group-title="USA",|USA  | HBO HD
+http://xpro.one-iptv.com:25443/mgs/1234/31738
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="|USA  | HBO East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM8xogmFZITE3zSDsdSQYnqAHvilJSCe0Mi5x3rvqv8qSmDv-T7G8Zb_fU" group-title="USA",|USA  | HBO East
+http://xpro.one-iptv.com:25443/mgs/1234/31737
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | HBO Signature" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlrJTNW6VOIYpD9m_Am7QwEa70Fjc7jh6gdEqZw5z-p37i3oWLa7I3TFBE" group-title="USA",|USA  | HBO Signature
+http://xpro.one-iptv.com:25443/mgs/1234/31739
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="|USA  | HBO Zone" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Aii-n5Awym7njEOVFmvMDXAu-JnjeiWnsbQVrHCHjohipJEnZitqJ94" group-title="USA",|USA  | HBO Zone
+http://xpro.one-iptv.com:25443/mgs/1234/31740
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="|USA *| HBO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHu2tIVCOaFLcxbe_MpWEysE1CEgffRL8Xmn0dplOBROGQTzfnqMakwPTw" group-title="USA",|USA *| HBO 2
+http://xpro.one-iptv.com:25443/mgs/1234/31627
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="|USA *| HBO Comedy HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShbhffk3lRhxS9vP5KA-bvxCB2h4MwUbccS-8AH-tY5ZjQdKZ5niZV-A" group-title="USA",|USA *| HBO Comedy HD
+http://xpro.one-iptv.com:25443/mgs/1234/31629
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="|USA *| HBO Family HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXECsScwl475V9fwbnn46B8FesZEkBRXOX3cuBuflaSaOdlxRVyFnragw" group-title="USA",|USA *| HBO Family HD
+http://xpro.one-iptv.com:25443/mgs/1234/31690
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="|USA *| HBO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRecIxX26fl3i0Ac_2tSQVAl-BzQ8tTEnYIUVFDyqd37PwDjFAZ2MfRJQ" group-title="USA",|USA *| HBO HD
+http://xpro.one-iptv.com:25443/mgs/1234/31628
+#EXTINF:-1 tvg-id="HBOSignatureEs.us" tvg-name="|USA *| HBO Signature HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTye6bzmvu6h450lifmZlyALNNCi_SbLbUupVtjq4Xb-2m8_qX29tV4Kwk" group-title="USA",|USA *| HBO Signature HD
+http://xpro.one-iptv.com:25443/mgs/1234/31626
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="|USA *| HBO Zone" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Aii-n5Awym7njEOVFmvMDXAu-JnjeiWnsbQVrHCHjohipJEnZitqJ94" group-title="USA",|USA *| HBO Zone
+http://xpro.one-iptv.com:25443/mgs/1234/31625
+#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="|USA *| Reelz HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zqgARm2DuqR8Dg-CkKMFSzdOFoF6zzFI5VBjtHuSJu1_HvYnbqLFnyY" group-title="USA",|USA *| Reelz HD
+http://xpro.one-iptv.com:25443/mgs/1234/31605
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="|USA *| Starz Edge" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIMwaT5Q-IYK3pBdB8zGR1SY62yTNqG1ZEWjjQzQI4jinWt4Se1N2Jgz4" group-title="USA",|USA *| Starz Edge
+http://xpro.one-iptv.com:25443/mgs/1234/31602
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="|USA  | Starz Cinema" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGpFQW56QwWhhNZrD6jdNN7mgAkpGW9nidV3DlTBWOoq1lQALZqO3byUw" group-title="USA",|USA  | Starz Cinema
+http://xpro.one-iptv.com:25443/mgs/1234/31745
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="|USA  | Starz Comedy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc77jqc40Z9K3kRFbhtH0Qm-DE7lZdy1sNUpfB7Mg3oazTdMzORac6Kz8" group-title="USA",|USA  | Starz Comedy
+http://xpro.one-iptv.com:25443/mgs/1234/31746
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="|USA  | Starz East" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxYM4CDu5khyI05lMuuHtwQoUGQrp_Lgubbvq3-SPRfUAWO1nHbopJS9i" group-title="USA",|USA  | Starz East
+http://xpro.one-iptv.com:25443/mgs/1234/31747
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="|USA  | STARZ EDGE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYrzmfXvxZ_3zrwEp3YANDmoydiJZ6gVwvKa2FbesBDe2c5ZD5Wv9Z6I" group-title="USA",|USA  | STARZ EDGE HD
+http://xpro.one-iptv.com:25443/mgs/1234/31841
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="|USA  | Starz Encore" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLZEnLjVz21bdfjE3zcMX1itXoR4QWt_iCcT9SKMmz52rJkR_Z12CB6Gfj" group-title="USA",|USA  | Starz Encore
+http://xpro.one-iptv.com:25443/mgs/1234/31748
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="|USA *| Sundance HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOmuHmUntEa8qHFgX2WpKJGmX8k5B6ZCP1pU62PZKFF4Zcv5Bixja5VA" group-title="USA",|USA *| Sundance HD
+http://xpro.one-iptv.com:25443/mgs/1234/31601
+#EXTINF:-1 tvg-id="AFNMovie.us" tvg-name="|USA  | AFN MOVIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYqxtU3-LHIUrcP4NYujeG58_U3Q4PnB3cUv1UmhIgsisMRffAvop7g" group-title="USA",|USA  | AFN MOVIE
+http://xpro.one-iptv.com:25443/mgs/1234/31819
+#EXTINF:-1 tvg-id="AFNSpectrum.us" tvg-name="|USA  | AFN SPECTRUM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGrAnjRGGgsG50rNsqZMY4pKb9jWo6iET_CYn68-lVoajSBq2kp6kwG6mfGg" group-title="USA",|USA  | AFN SPECTRUM
+http://xpro.one-iptv.com:25443/mgs/1234/31824
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="|USA *| SYFY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXyod06-5j_he10UcgX2-_vHbalgY1ZEmRxc5S_koOPb3ZRlHZjsqjAuXi" group-title="USA",|USA *| SYFY HD
+http://xpro.one-iptv.com:25443/mgs/1234/31600
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="|USA  | SYFY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzR6CreUH-PyC3CGHIu3Zc6Bu2IiQJztiL11KfCluNI59gp2BSvVrUGc-S" group-title="USA",|USA  | SYFY HD
+http://xpro.one-iptv.com:25443/mgs/1234/31761
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="|USA  | Showtime 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpTSEEa_phxm51NtwPllVqiz6Shjy4eD8qQMpWF9ur7br3fzGzgK4PJfY" group-title="USA",|USA  | Showtime 2
+http://xpro.one-iptv.com:25443/mgs/1234/31742
+#EXTINF:-1 tvg-id="Showtime.us" tvg-name="|USA  | SHOWTIME HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Kfnj67mt94tfXwVssJ9uM-auWPOW-NgsCSTlKda0NYGLhB1FbfXxLzg" group-title="USA",|USA  | SHOWTIME HD
+http://xpro.one-iptv.com:25443/mgs/1234/31743
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Showtime West" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRuzOSgDXfj75h7Cf92L-JlWE0PDAUUGC4J6ruyVIubDjjETkw8rLY-I" group-title="USA",|USA  | Showtime West
+http://xpro.one-iptv.com:25443/mgs/1234/31744
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA NEWS *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwo-ON4P4hF4NkkQcadtzvL83RTkXSX7g-VNyxZEltjkg7op_y-XIAbhj" group-title="USA",|USA  | ***** USA NEWS *****
+http://xpro.one-iptv.com:25443/mgs/1234/31848
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | DW" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ask2k_sqE-Zbz2ZPwWfcRpdnVRgHW7o42ehtStyYYGYyoAILUsuneIM" group-title="USA",|USA  | DW
+http://xpro.one-iptv.com:25443/mgs/1234/31734
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="|USA  | ABC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHgYcCWc6TviQXxEQTFx2NqAFfaQkL_7xtD-HkbKSYemIeeZbw60reylUL" group-title="USA",|USA  | ABC HD
+http://xpro.one-iptv.com:25443/mgs/1234/31750
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ABC NEWS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfCNuHSdkTZUVmDK5H23cQ8cz56lhrAZXnD44QdzFgTkHMTZSmoa_iHVU" group-title="USA",|USA  | ABC NEWS HD
+http://xpro.one-iptv.com:25443/mgs/1234/31751
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="|USA *| ABC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGG7EsxoIM_0N4xIUeeJf2JRX2xqlzsE9M5_szCv_wKwvGNLH4j3q0l4C0" group-title="USA",|USA *| ABC
+http://xpro.one-iptv.com:25443/mgs/1234/31686
+#EXTINF:-1 tvg-id="ABC.us" tvg-name="|USA *| ABC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcPOINDEa32LU2cqsndb65Y2P7vsKOBdJoMvgrok1FIhimtvueFmC5xcs" group-title="USA",|USA *| ABC HD
+http://xpro.one-iptv.com:25443/mgs/1234/31696
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| ABC News HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWagroDwNX6-nzrgKS8t0Ew6rQwWPalKaYGninJT7LF1IycB2j9H76K8k" group-title="USA",|USA *| ABC News HD
+http://xpro.one-iptv.com:25443/mgs/1234/31685
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="|USA *| C-SPAN 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqDTh7-OHx4MEeXaU4YscWPfP2t2V2_SbcD3b0SFybXJJkXI_vL04h8IaH-w" group-title="USA",|USA *| C-SPAN 1 HD
+http://xpro.one-iptv.com:25443/mgs/1234/31671
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="|USA *| C-SPAN 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRTbGbvu6UmyDKN-xOjqQzGEx2DsdtUupC89HvIQDuCDQCkTaE6hOHuWS6" group-title="USA",|USA *| C-SPAN 2 HD
+http://xpro.one-iptv.com:25443/mgs/1234/31670
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="|USA *| C-SPAN 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqDTh7-OHx4MEeXaU4YscWPfP2t2V2_SbcD3b0SFybXJJkXI_vL04h8IaH-w" group-title="USA",|USA *| C-SPAN 3 HD
+http://xpro.one-iptv.com:25443/mgs/1234/31669
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="|USA  | C-Span 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjGcmcCLZySViU-v2LVYxx_SbEbpRL0y8DsbXY1UVj42V7eplGwxfBHmk" group-title="USA",|USA  | C-Span 1
+http://xpro.one-iptv.com:25443/mgs/1234/31800
+#EXTINF:-1 tvg-id="CSPAN2.us" tvg-name="|USA  | C-Span 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8bfYD59I2ubz9k-ItxD6Pcgc27lnsydJgl5dNr_w7WXVvALjm4xLTQ37" group-title="USA",|USA  | C-Span 2
+http://xpro.one-iptv.com:25443/mgs/1234/31801
+#EXTINF:-1 tvg-id="CSPAN3.us" tvg-name="|USA  | C-Span 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2PNvFnZOQ2PAo9chgiEW0Ufj_k08wrqCXCqO5BOH6Hgss4r1z8I17jlDv" group-title="USA",|USA  | C-Span 3
+http://xpro.one-iptv.com:25443/mgs/1234/31802
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="|USA  | CNBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhVPoUwySf2cjRRCY4GrIqN2rpml7fKTIHV0tFtwsq9fgfr2afZ4HgNwI" group-title="USA",|USA  | CNBC
+http://xpro.one-iptv.com:25443/mgs/1234/31732
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| CBN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfegmhbiaMBvZVrCYfd5tQZOueu7zN6gNrs5gQQB3lWgYPt1qDdiW-mrc" group-title="USA",|USA *| CBN HD
+http://xpro.one-iptv.com:25443/mgs/1234/31667
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="|USA *| CNN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJGTbwmlXcyj8ppyeL0AtVGKDDYDyPGLIAuegSxpl5U719W-2ETD9tESHr" group-title="USA",|USA *| CNN HD
+http://xpro.one-iptv.com:25443/mgs/1234/31692
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="|USA  | CNN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KnnzKspHPS6MaHjrY6YpXqICnBTBtwfwE8aNuwNII5P6sWdmO4hFcBWX" group-title="USA",|USA  | CNN HD
+http://xpro.one-iptv.com:25443/mgs/1234/31804
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="|USA  | CNN HD *" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4KnnzKspHPS6MaHjrY6YpXqICnBTBtwfwE8aNuwNII5P6sWdmO4hFcBWX" group-title="USA",|USA  | CNN HD *
+http://xpro.one-iptv.com:25443/mgs/1234/31718
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="|USA  | CNN US HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ6WIXiocQxk0cdenWshAhxt6zikAwpouzmK7fflaHxLFWIqv9eDQbyy6s" group-title="USA",|USA  | CNN US HD
+http://xpro.one-iptv.com:25443/mgs/1234/31780
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="|USA  | Fox HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcV9b6Rqnufn0xImp4c-SK9kRUBSHH-rUyRHDjnj8p-2NMDMuj_jPeQP4" group-title="USA",|USA  | Fox HD
+http://xpro.one-iptv.com:25443/mgs/1234/31725
+#EXTINF:-1 tvg-id="FoxBusiness.us" tvg-name="|USA *| FOX Business Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTADAQGJYigRkrHWrWvVPgW_dxc2ZICL6maxcH3bmh8ujBIvRnLEG5CB7An" group-title="USA",|USA *| FOX Business Network HD
+http://xpro.one-iptv.com:25443/mgs/1234/31640
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="|USA *| FOX News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd_uZCGJnIR4kHghewdpauA8CODgdxYMfcJUDj6S-nEV4JBMFVLb2WfstH" group-title="USA",|USA *| FOX News
+http://xpro.one-iptv.com:25443/mgs/1234/31638
+#EXTINF:-1 tvg-id="AFNNews.us" tvg-name="|USA  | AFN NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Auzj_z8zCYd_xmK2wj34kWR78Y7G7EZyRkOWjOEA6O2jsNept2Q46a40sA" group-title="USA",|USA  | AFN NEWS
+http://xpro.one-iptv.com:25443/mgs/1234/31820
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA DISCOVERY *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqETwgqPg-ztSttf3NyElOrO2CDEX9_xFBo8JzIcRebqaR_cqJ_T5Ls6-t" group-title="USA",|USA  | ***** USA DISCOVERY *****
+http://xpro.one-iptv.com:25443/mgs/1234/31846
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="|USA *| Animal Planet HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9I5QeMdh9KISO-msDhDu4L-1wuO8qNinqBNl8aZrR2amtdaMuMI7lrPc" group-title="USA",|USA *| Animal Planet HD
+http://xpro.one-iptv.com:25443/mgs/1234/31679
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="|USA  | ANIMAL PLANET HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5XUYI7n-QXWhNkzLuMplVC7Hz3jCc1FdMJ0AviE1Etxig3apUZdG58SXP" group-title="USA",|USA  | ANIMAL PLANET HD
+http://xpro.one-iptv.com:25443/mgs/1234/31799
+#EXTINF:-1 tvg-id="CrimeInvestigation.us" tvg-name="|USA *| Crime & Investigation HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8e7uopp2fiJe6jDvfiJrm_31tEzv9mpUDDAZc8pB7AW-bErF_CPUkBA" group-title="USA",|USA *| Crime & Investigation HD
+http://xpro.one-iptv.com:25443/mgs/1234/31659
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="|USA *| Discovery Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRWqyxmb9z5bOyC0vOOIU_SInUFFvS94O_P4HEZjQLBtbYdxg8i3YVJAU" group-title="USA",|USA *| Discovery Channel HD
+http://xpro.one-iptv.com:25443/mgs/1234/31656
+#EXTINF:-1 tvg-id="DiscoveryFamily.us" tvg-name="|USA *| Discovery Family HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR14F8uY4v0fOuO7tTBtoGUOLah2hlgo6CK6bROJ0Zu2oB_O0PXfEugnKo" group-title="USA",|USA *| Discovery Family HD
+http://xpro.one-iptv.com:25443/mgs/1234/31655
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="|USA *| Discovery HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRWqyxmb9z5bOyC0vOOIU_SInUFFvS94O_P4HEZjQLBtbYdxg8i3YVJAU" group-title="USA",|USA *| Discovery HD
+http://xpro.one-iptv.com:25443/mgs/1234/31695
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="|USA *| Discovery Science HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRWqyxmb9z5bOyC0vOOIU_SInUFFvS94O_P4HEZjQLBtbYdxg8i3YVJAU" group-title="USA",|USA *| Discovery Science HD
+http://xpro.one-iptv.com:25443/mgs/1234/31654
+#EXTINF:-1 tvg-id="DiscoveryVelocity.us" tvg-name="|USA *| Discovery Velocity HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy7mstK-ynHW6nGwIz1UKAY75GsMCwIsrc9PGNjNHOKmx7yhlayDaVBg-e" group-title="USA",|USA *| Discovery Velocity HD
+http://xpro.one-iptv.com:25443/mgs/1234/31653
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="|USA  | DISCCOVERY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | DISCCOVERY HD
+http://xpro.one-iptv.com:25443/mgs/1234/31733
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="|USA  | Discovery Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt_Avg7x11d49m8pX1UnD7xN0ucYET4Mr_KOtaPJyAzN4wODRVe3mphsA" group-title="USA",|USA  | Discovery Channel
+http://xpro.one-iptv.com:25443/mgs/1234/31721
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Discovery HD Showcase" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvLR85tD2X4Yu8fGvudWjuyiLCTGXsBVF57RLcejkdYdKKfc-qNBMwRdg" group-title="USA",|USA  | Discovery HD Showcase
+http://xpro.one-iptv.com:25443/mgs/1234/31793
+#EXTINF:-1 tvg-id="DiscoveryScience.us" tvg-name="|USA  | Discovery Science HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRM83YsMjLHGOnFJUdthfPq78KamVXXAeUWaBPhP9T1pWFqMbv57sjtDUo" group-title="USA",|USA  | Discovery Science HD
+http://xpro.one-iptv.com:25443/mgs/1234/31831
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="|USA *| Investigation Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAimuS_if7mTHzEKLOYj9Irfs6QT91rkh0i0VKMItEA2MvRbSpOinuf0a6" group-title="USA",|USA *| Investigation Discovery
+http://xpro.one-iptv.com:25443/mgs/1234/31622
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="|USA  | Investigation Discovery" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NeCVpxRMv7PTIQ9RIfCK_WL58vOZPOC8o3jmjv0tev3z0wepOfzQclw" group-title="USA",|USA  | Investigation Discovery
+http://xpro.one-iptv.com:25443/mgs/1234/31758
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="|USA *| Nat Geo hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsqNxVjqZuoU5DIvGb-g5u9KEbqOmorlsR3Ip1TXpCFCEJaWSQg16d8iWJ" group-title="USA",|USA *| Nat Geo hd
+http://xpro.one-iptv.com:25443/mgs/1234/31615
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="|USA  | National Geographic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoGH2ABtM4qh3dh25hIbF4IhY1TQvYrQ5MXKYUqo6N8bdN6vHaD6afbD0" group-title="USA",|USA  | National Geographic
+http://xpro.one-iptv.com:25443/mgs/1234/31838
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="|USA  | AMERICAN HEROES CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvcM6cd2MWIe5SGkJoXFpIFLW3rm47DlE3mWdhrbfSYtGR__2DH6udYTI" group-title="USA",|USA  | AMERICAN HEROES CHANNEL
+http://xpro.one-iptv.com:25443/mgs/1234/31719
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Amazing Discoveries HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJqDtJhpdt5dQE6kjJZkVlM2Rxy-y__JBDNVlOAHwIVUVM_EqDhfI9G5w" group-title="USA",|USA  | Amazing Discoveries HD
+http://xpro.one-iptv.com:25443/mgs/1234/31764
+#EXTINF:-1 tvg-id="NASAChannel.us" tvg-name="|USA  | NASA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_GudDFUAOgJefCUtG64h4R2HUjiNA2znM726lz0ODQUT-UbG0ulvtpDZ" group-title="USA",|USA  | NASA TV HD
+http://xpro.one-iptv.com:25443/mgs/1234/31711
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA MUSIC *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG-WWq9Y4_gEkHQPY-hqXAZwIQvF-l6fvbMMQrltuFh4Z5YPfV4UZr5y5D" group-title="USA",|USA  | ***** USA MUSIC *****
+http://xpro.one-iptv.com:25443/mgs/1234/31845
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | VH1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGWjTkM9HmoXQB7XXPqYGzy5t4SMcJ_1gyjqR9F-MGRtziGQlSLuSPA3M" group-title="USA",|USA  | VH1 HD
+http://xpro.one-iptv.com:25443/mgs/1234/32729
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="|USA  | MTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1VgtX3xGKorydHaiLxSPr4lhg-GQ2otc9THAiW-1ufagdQga70fYG-7s" group-title="USA",|USA  | MTV HD
+http://xpro.one-iptv.com:25443/mgs/1234/31707
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="|USA *| MTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1VgtX3xGKorydHaiLxSPr4lhg-GQ2otc9THAiW-1ufagdQga70fYG-7s" group-title="USA",|USA *| MTV HD
+http://xpro.one-iptv.com:25443/mgs/1234/31616
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | ***** USA CULTURE *****" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShJV6NnAEqFFDf8wok2nsbTmfwD-UKai7rNFqi9d-a2psgNvmfoLb1wuAI" group-title="USA",|USA  | ***** USA CULTURE *****
+http://xpro.one-iptv.com:25443/mgs/1234/31847
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="|USA *| A and E HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtm2RMS0RQHm2Is36TQJr6AhpHuouhqPipWUzq5v7K0gZgPANMJ6HmCV3" group-title="USA",|USA *| A and E HD
+http://xpro.one-iptv.com:25443/mgs/1234/31687
+#EXTINF:-1 tvg-id="AFNPrimeAtlantic.us" tvg-name="|USA *| AFN Prime Atlantic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXHPz01Gr6Z0RpJeoKIfYdTsYkyMa4P2SdBCHTKzKXDLdj5tHOSMCqTgDC" group-title="USA",|USA *| AFN Prime Atlantic
+http://xpro.one-iptv.com:25443/mgs/1234/31683
+#EXTINF:-1 tvg-id="AFNPrimePacific.us" tvg-name="|USA *| AFN Prime Pacific" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVORtw1liHUXTASgFMNio_c2IcTDxLacJTKHkmUuyX8Jv_Km56q8XSjA" group-title="USA",|USA *| AFN Prime Pacific
+http://xpro.one-iptv.com:25443/mgs/1234/31682
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="|USA *| AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC9Nwq0wSWfd3OlCnY2vq_gMfQAmjnk8mSEqOdWDpSTwGPYfsseZztEQ" group-title="USA",|USA *| AMC HD
+http://xpro.one-iptv.com:25443/mgs/1234/31697
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="|USA *| Bravo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLZlrWr1cvW0MocKbh-Ljvu8j8xhOWnjTU3vPomOYBYcDBThD01nFD76kA" group-title="USA",|USA *| Bravo
+http://xpro.one-iptv.com:25443/mgs/1234/31673
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="|USA *| Bravo HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVLoQeyhenheRRJzRW4U9xuIBhcZ2xAVZQ5vX2gQ4FOj2EufotgFMgfo" group-title="USA",|USA *| Bravo HD
+http://xpro.one-iptv.com:25443/mgs/1234/31694
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="|USA *| Cooking Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMML-Y7V_4DYKJlltSfnKBt7CuyrL4rLf8hdFfRTlcT5ZHmeBXFNhVTUMd" group-title="USA",|USA *| Cooking Channel HD
+http://xpro.one-iptv.com:25443/mgs/1234/31660
+#EXTINF:-1 tvg-id="CW.us" tvg-name="|USA *| CW HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRemyU-Ga7NxCOjfJH7y1u1zIK1rw3KFSk4-vINPa5NDwy8MaOXPNo8n5q" group-title="USA",|USA *| CW HD
+http://xpro.one-iptv.com:25443/mgs/1234/31658
+#EXTINF:-1 tvg-id="DestinationAmerica.us" tvg-name="|USA *| Destination America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQybxq8lsFS9LJx1NBWpArRxX0SZ_jyuLcy6D8NTUNybVZnGCt6QPxnc3A" group-title="USA",|USA *| Destination America
+http://xpro.one-iptv.com:25443/mgs/1234/31657
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| DIY Network HD**" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-RbzD1d6zP0hO51dFj26M5-m0wqFRutYmCPAVvH-1vM1uvteKUiS7Q2c" group-title="USA",|USA *| DIY Network HD**
+http://xpro.one-iptv.com:25443/mgs/1234/31650
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| DTX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpFZTMNO49fv7O9fVMoQ2xViElDs-RiIM_fwFaGVEilhyn2kNwJvHL0Mtc" group-title="USA",|USA *| DTX HD
+http://xpro.one-iptv.com:25443/mgs/1234/31649
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="|USA *| E! HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtm2RMS0RQHm2Is36TQJr6AhpHuouhqPipWUzq5v7K0gZgPANMJ6HmCV3" group-title="USA",|USA *| E! HD
+http://xpro.one-iptv.com:25443/mgs/1234/31648
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| FOX 29 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7EGfKZAREYFBO9dcqRWeSPnR0XpBrzwEHFEjtwRaX7qAvyP_H_2Fhzi-xYg" group-title="USA",|USA *| FOX 29 HD
+http://xpro.one-iptv.com:25443/mgs/1234/31691
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="|USA *| FOX HD**" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxF7OVlhyupiFjkgbKvQHzGql6vS-6eyi46346FH-y5oPrg_n5khkhTmg" group-title="USA",|USA *| FOX HD**
+http://xpro.one-iptv.com:25443/mgs/1234/31639
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="|USA *| Freeform HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7FKXACZAK4ssAyrEG3tgijJNX2qm6APruKZ666jXOKtAKaDWcXIqmthWt" group-title="USA",|USA *| Freeform HD
+http://xpro.one-iptv.com:25443/mgs/1234/31637
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| GSN HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGy1wIbRUu2pNBBaQ5XAWw97issF8D0kudA32EBXQvRHqB8I8qeM0TaNjT" group-title="USA",|USA *| GSN HD*
+http://xpro.one-iptv.com:25443/mgs/1234/31633
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| H2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmuoD52IsxWWBKWBujQ8bBRmi46kAYnIi7ictfIGc8q0Yp7jzTZmPDRcB5" group-title="USA",|USA *| H2
+http://xpro.one-iptv.com:25443/mgs/1234/31632
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="|USA *| Hall Mark HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8iXUeIfcLZZEvjkTMYVsx5TXeFVz6e95LM98Fut6DyM0gnzDHn4vmT0" group-title="USA",|USA *| Hall Mark HD
+http://xpro.one-iptv.com:25443/mgs/1234/31631
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="|USA *| HallMark" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpGtj81N9ZtvTptQHrXCp9wzqTwraM3Y-uMrvzT2Pphxdhb1VcCRrg1krp" group-title="USA",|USA *| HallMark
+http://xpro.one-iptv.com:25443/mgs/1234/31630
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="|USA *| HGTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfFf5EywnnOy9kyCF_5AFOoG0QphMdca1mH-Rz9OpcaOjpfpXzolV5Rx4" group-title="USA",|USA *| HGTV HD
+http://xpro.one-iptv.com:25443/mgs/1234/31689
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="|USA *| History" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNqi-neUZnF2_oSf2153MXbHfXCss6diQA0OaiJuzTgZrgfTyghYPn4YZ" group-title="USA",|USA *| History
+http://xpro.one-iptv.com:25443/mgs/1234/31624
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| IFC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCUnVxIMG5J46LYpP6v5063imw2xhrYnGukSbj8sWutM3c6F-m5znnt8yR" group-title="USA",|USA *| IFC HD
+http://xpro.one-iptv.com:25443/mgs/1234/31623
+#EXTINF:-1 tvg-id="LifetimeNetwork.us" tvg-name="|USA *| Life Time" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0I-a75bgesM9eZXsF_y8ojmw7DOMnsKwRGEJeBvtwFgDWgL62THZl0WDy" group-title="USA",|USA *| Life Time
+http://xpro.one-iptv.com:25443/mgs/1234/31621
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="|USA *| LMN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5A2ICOu0tHqyBt14IjQDmwEH37SqdL5H07kvaI97ngywpXP6Qv_ItF5EM5A" group-title="USA",|USA *| LMN HD
+http://xpro.one-iptv.com:25443/mgs/1234/31620
+#EXTINF:-1 tvg-id="MoreMax.us" tvg-name="|USA *| More Max HD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMQ9kkV06wpTVXeymXEA2RqkycNYioKxN7oHEa0Lqj66QKQ0VNxCzwyRFA" group-title="USA",|USA *| More Max HD*
+http://xpro.one-iptv.com:25443/mgs/1234/31618
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="|USA *| Oxygen HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwtm2RMS0RQHm2Is36TQJr6AhpHuouhqPipWUzq5v7K0gZgPANMJ6HmCV3" group-title="USA",|USA *| Oxygen HD
+http://xpro.one-iptv.com:25443/mgs/1234/31607
+#EXTINF:-1 tvg-id="PBSBostonWGBH.us" tvg-name="|USA *| PBS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0jmpE4Wku-daSe55hniVGKUfvCbCXHwCD1tyAcDuYbj8Um2QjlFwQl-RV" group-title="USA",|USA *| PBS HD
+http://xpro.one-iptv.com:25443/mgs/1234/31606
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| Spike HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGS_xpFx3UjoPRQ5HrLLQCT0XMWiYZTlg5wOL2nU9iVC9HcetV50_6GCbO" group-title="USA",|USA *| Spike HD
+http://xpro.one-iptv.com:25443/mgs/1234/31603
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="|USA *| TBS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHxINHvq-rS2bWH4Apn4gUyPO8sVkvvDQ8qa_IiXE83h1ShUaLADMHT6k" group-title="USA",|USA *| TBS HD
+http://xpro.one-iptv.com:25443/mgs/1234/31688
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="|USA *| The Weather Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRB1oJjHYQ1vZhYm4o0eT0Supw2FxgLTZCXzrvhVog0Co7fl6w9A6qxgg" group-title="USA",|USA *| The Weather Channel HD
+http://xpro.one-iptv.com:25443/mgs/1234/31598
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="|USA *| TLC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWzCTEHyD4hfPsHRhDJhgX9Pjpu-sjZFzjSV1WCtkjlaJhvoL1qDereO8" group-title="USA",|USA *| TLC HD
+http://xpro.one-iptv.com:25443/mgs/1234/31597
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="|USA *| Travel Channel HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_2L53kmtOjT3KhkQWg5ZXbIdXJVN7zFHc62VkLW_Z0ExfFEOmLIw0Tg" group-title="USA",|USA *| Travel Channel HD
+http://xpro.one-iptv.com:25443/mgs/1234/31595
+#EXTINF:-1 tvg-id="TVLandEast.us" tvg-name="|USA *| TV Land HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM865RuQM22wyTIg2NGHMi9SO41H_9BEtVY_zFk9SvERH_zGzUfQ0ZdMAv" group-title="USA",|USA *| TV Land HD
+http://xpro.one-iptv.com:25443/mgs/1234/31594
+#EXTINF:-1 tvg-id="" tvg-name="|USA *| Universal HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtqwHHCe6YJBO9Rctcxhk7lYvYrupxrraPUvnZBZQa642a4NSwYqdBXSDI" group-title="USA",|USA *| Universal HD
+http://xpro.one-iptv.com:25443/mgs/1234/31593
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="|USA *| USA Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhnBSsAraTaVYAhyalE4px7-E5xMcMvAT1Ec-GSpwnbqC0GvzBxGAZowGz" group-title="USA",|USA *| USA Network
+http://xpro.one-iptv.com:25443/mgs/1234/31592
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="|USA  | A&E HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs6uGnDIq7wAZ32FihOtvey2jw2fnrXjBJzEg8KKwOv3cqAal85Cy_kVA" group-title="USA",|USA  | A&E HD
+http://xpro.one-iptv.com:25443/mgs/1234/31763
+#EXTINF:-1 tvg-id="AFNPrimeAtlantic.us" tvg-name="|USA  | AFN PRIME ATLANTIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPmXpKjhfWZ7IYuzcCTjyWdbPvTsTBLpYFvwCiQEVMaVHauKp7RwkYRQ" group-title="USA",|USA  | AFN PRIME ATLANTIC
+http://xpro.one-iptv.com:25443/mgs/1234/31821
+#EXTINF:-1 tvg-id="AFNPrimePacific.us" tvg-name="|USA  | AFN PRIME PACIFIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjA_OIfoA58mATsQjJcmrUuRq59kko8ULiCnf9UZTUNJLlPAKC_QQ6bNU" group-title="USA",|USA  | AFN PRIME PACIFIC
+http://xpro.one-iptv.com:25443/mgs/1234/31822
+#EXTINF:-1 tvg-id="AFNPulse.us" tvg-name="|USA  | AFN PULSE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQSWWCOf7yaPD6AK5yyNjZLupmZ2AKdL6_vFNE8zbXSH6HU_YkxfsceDw" group-title="USA",|USA  | AFN PULSE
+http://xpro.one-iptv.com:25443/mgs/1234/31823
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="|USA  | AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhNvvYErZ0rgWxhsxhBTq6kVuKD1CqqQca7Z2tUJ4hUCQiqqz0_eog48" group-title="USA",|USA  | AMC HD
+http://xpro.one-iptv.com:25443/mgs/1234/31728
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="|USA  | BRAVO HD(1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzTonruDdblLbnQAY0eEsdl95djItYsIwZmJyMrXP7bBEqC8EomgxysIx3" group-title="USA",|USA  | BRAVO HD(1)
+http://xpro.one-iptv.com:25443/mgs/1234/31752
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | BYU TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3eKIMYiA_qTFSWY_qRYQeKrLPlrJxtEa-2hkmhavHx1ofACY1VXjqLbE" group-title="USA",|USA  | BYU TV
+http://xpro.one-iptv.com:25443/mgs/1234/31729
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | CAPITAL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ7F4mLFKEkaET6ht1Fo9ym-V3Gdf8U0PJbD9lFlEm43KyBUH3I4iJQEHf" group-title="USA",|USA  | CAPITAL TV
+http://xpro.one-iptv.com:25443/mgs/1234/31784
+#EXTINF:-1 tvg-id="CW.us" tvg-name="|USA  | CW HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_GudDFUAOgJefCUtG64h4R2HUjiNA2znM726lz0ODQUT-UbG0ulvtpDZ" group-title="USA",|USA  | CW HD
+http://xpro.one-iptv.com:25443/mgs/1234/31754
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | CW11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f-23bdCCIOOjbNm8BFaVLK76W2qLZR2A0jFJ2KivYuPeyw2dCueQhBS9" group-title="USA",|USA  | CW11
+http://xpro.one-iptv.com:25443/mgs/1234/31794
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | DIY Network" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFvbYoZCHKplqo9tTDxEO7s8iDY6g4GUj_BNvGDfnicEP44jpgXbLzDR-w" group-title="USA",|USA  | DIY Network
+http://xpro.one-iptv.com:25443/mgs/1234/31832
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="|USA  | E!" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGk-XN4SfI9G0w8OodXSdjnrYgiiEIZfP-k36R0YeFp5qMe6r09ezVvv9A" group-title="USA",|USA  | E!
+http://xpro.one-iptv.com:25443/mgs/1234/31723
+#EXTINF:-1 tvg-id="ESPNNews.us" tvg-name="|USA  | ESPN News US HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2GHJe_lyHLEbtV6_iCWkTsa7JQJ3H6bDhpBW96dpxRIPee744INu1nRk" group-title="USA",|USA  | ESPN News US HD
+http://xpro.one-iptv.com:25443/mgs/1234/31779
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Fine Living" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyD90yOdlvTu-W7n5p6cED6eD2wIX20KxszIE6TncxwjoLgoKLMquKOPU6" group-title="USA",|USA  | Fine Living
+http://xpro.one-iptv.com:25443/mgs/1234/31792
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="|USA  | Food Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKzu4YUiTpwJM6BdaNmTpLAhMy05gpRgbnz7p7fSodaDYqib6iFlLCQWxS" group-title="USA",|USA  | Food Network HD
+http://xpro.one-iptv.com:25443/mgs/1234/31833
+#EXTINF:-1 tvg-id="Grit.us" tvg-name="|USA  | GRIT TV Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZK7SHpijSYo4sADBjYjx6d6dfO2RsZNMEQU99qhe87TzP--hUM6HA9_0c" group-title="USA",|USA  | GRIT TV Movies
+http://xpro.one-iptv.com:25443/mgs/1234/31717
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | H2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsjSa5VirlVM4mp_SzuOiRHljL-qwOtuUS8QPepsBBe8IVNuAXmC9ErwE" group-title="USA",|USA  | H2
+http://xpro.one-iptv.com:25443/mgs/1234/31836
+#EXTINF:-1 tvg-id="Hallmark.us" tvg-name="|USA  | HALLMARK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZDMKamxjD_jMyXPggVHQeMvjAods3mOtikCHY2xjw9x702gk0gldepnPX" group-title="USA",|USA  | HALLMARK
+http://xpro.one-iptv.com:25443/mgs/1234/31837
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="|USA  | HGTV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_5kJgryMnUFnNXKphqjXxhEJneqdjtEFI5GMoMQdZI53mlTW306m85g" group-title="USA",|USA  | HGTV HD
+http://xpro.one-iptv.com:25443/mgs/1234/31790
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="|USA  | HISTORY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ20FbN3993P3YEWdWn0Wd8-VNcKtCxqXtJTthNGMFC2znYVYo3QGFOnIY" group-title="USA",|USA  | HISTORY HD
+http://xpro.one-iptv.com:25443/mgs/1234/31757
+#EXTINF:-1 tvg-id="ION.us" tvg-name="|USA  | ION Television East HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbDp0KtDpJYjqQCVVmColS9WTZYmYDBELrVCsk1UtRZpNcxqqSkN6Y-cz3" group-title="USA",|USA  | ION Television East HD
+http://xpro.one-iptv.com:25443/mgs/1234/31777
+#EXTINF:-1 tvg-id="LifetimeMovies.us" tvg-name="|USA  | Lifetime Movie Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdMajHqkd5f5rdorVBggL5_bU5As_gvJcKc0bgPDzykDSDLl5ZFB6v-ds" group-title="USA",|USA  | Lifetime Movie Network HD
+http://xpro.one-iptv.com:25443/mgs/1234/31776
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | MelloTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f-23bdCCIOOjbNm8BFaVLK76W2qLZR2A0jFJ2KivYuPeyw2dCueQhBS9" group-title="USA",|USA  | MelloTV
+http://xpro.one-iptv.com:25443/mgs/1234/31843
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | MY13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4f-23bdCCIOOjbNm8BFaVLK76W2qLZR2A0jFJ2KivYuPeyw2dCueQhBS9" group-title="USA",|USA  | MY13
+http://xpro.one-iptv.com:25443/mgs/1234/31715
+#EXTINF:-1 tvg-id="My9.us" tvg-name="|USA  | MY9 TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS3eKIMYiA_qTFSWY_qRYQeKrLPlrJxtEa-2hkmhavHx1ofACY1VXjqLbE" group-title="USA",|USA  | MY9 TV
+http://xpro.one-iptv.com:25443/mgs/1234/31783
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Network (US)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHtqdEARGW9NkKAL8Nfle8c8LaIvdhZuy18jXoqVL1VJQCncaR9GxoUJo" group-title="USA",|USA  | Network (US)
+http://xpro.one-iptv.com:25443/mgs/1234/31760
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="|USA  | OUTDOOR CHANNEL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1iWimzaksWZpVKuFOpEPvbC9Yyx1JmRRU0Hyn77vxYYzcukKk-ODAnuA" group-title="USA",|USA  | OUTDOOR CHANNEL HD
+http://xpro.one-iptv.com:25443/mgs/1234/31789
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | OWN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | OWN HD
+http://xpro.one-iptv.com:25443/mgs/1234/31713
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | Smile Of A Child" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnHJmk56Wv_GPHb-hb37tegL7r6Z39ykNvs8TT2s15OGo5WG0n6ccvVMo" group-title="USA",|USA  | Smile Of A Child
+http://xpro.one-iptv.com:25443/mgs/1234/31788
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | SNY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOK0H42GaIuGz6R9KxEBt4Y3kDoO65GfnpIM5KpqJnKHsEmv2H-g3bMLaz" group-title="USA",|USA  | SNY
+http://xpro.one-iptv.com:25443/mgs/1234/31714
+#EXTINF:-1 tvg-id="" tvg-name="|USA  | SPIKE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | SPIKE HD
+http://xpro.one-iptv.com:25443/mgs/1234/31840
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="|USA  | TBS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbPeNZH6ttmfQLVmSHwZTJwRY6EXjN-4RX3RKZ50BdqDGZLaseuOMIxIo" group-title="USA",|USA  | TBS HD
+http://xpro.one-iptv.com:25443/mgs/1234/31811
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="|USA  | TLC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAX84Bgl1MBhv0NYS5dyHGHTv_I_v_rWYbv49dKokwETJE10psSscM3L_V" group-title="USA",|USA  | TLC HD
+http://xpro.one-iptv.com:25443/mgs/1234/31774
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="|USA  | USA Network HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6BBQqIjvIVeEiBERMLpZJ-18aTFQ4AXmy9yI4c6x5miMQxUa5MI7slIo" group-title="USA",|USA  | USA Network HD
+http://xpro.one-iptv.com:25443/mgs/1234/31842
+#EXTINF:-1 tvg-id="WeatherChannel.us" tvg-name="|USA  | WEATHERNATION" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnRDe0CZlPcWf8x7OSuo-d1q9DAq9IgAStA67EBLjFTMCPUh8WeuwT88O-" group-title="USA",|USA  | WEATHERNATION
+http://xpro.one-iptv.com:25443/mgs/1234/31781
