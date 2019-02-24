@@ -3,9 +3,9 @@
 http://192.168.1.212:5004/auto/v2.1?transcode=mobile
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qt5F8Uf.jpg" group-title="USA",ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1, CUZI
+#EXTINF:-1, C0ZI TV
 http://192.168.1.212:5004/auto/v4.2/live/lescobar/lescobar/8599.ts
-#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",BOUNCE
+#EXTINF:-1 tvg-logo="https://images.bwwstatic.com/columnpic10/680D75AB278-B4E0-D043-73881ECC70BF8107.jpg",BOUN
 http://192.168.1.212:5004/auto/v14.4/live/lescobar/lescobar/823.ts
 #EXTINF:-1, BUZZR
 http://192.168.1.212:5004/auto/v5.2/live/lescobar/lescobar/8605.ts
